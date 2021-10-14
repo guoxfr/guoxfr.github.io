@@ -25,7 +25,7 @@ plugins:
 # Setup
 title: "LIED UMR 8236 – Xiaofeng GUO"
 description: Description goes here
-url: https://GuoUParis.github.io
+url: https://guoxfr.github.io/GuoUParis.github.io/
 baseurl: ""
 lang: fr-FR
 logo: "/assets/logos/univ-paris.jpg"
@@ -46,10 +46,6 @@ favicons:
 navigation_header:
   - title: Accueil
     url: /
-#   - title: Présentation
-#     url: /membres/
-#   - title: Recherche
-#     url: /recherche/
   - title: Publications
     url: /publications/
 
