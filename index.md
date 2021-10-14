@@ -1,15 +1,21 @@
+---
+layout: page
+title: Pr. Xiaofeng GUO
+feature_image: "static/img/"
+---
+
 # Prof. Xiaofeng Guo, Université de Paris
 
-Professor
-Université de Paris
-IUT de Paris Pajol
+Professor<br>
+Université de Paris<br>
+IUT de Paris Pajol<br>
 Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 
-Contact info (new since 2021):
-Xiaofeng.Guo[at]u-paris.fr
+Contact info (new since 2021):<br>
+Xiaofeng.Guo[at]u-paris.fr<br>
 To come to my lab: https://physique.u-paris.fr/structures/ufr-physique
 
-Appointments
+## Appointments
 
 2021-: full professor, Université de Paris, IUT de Paris Pajol
 
@@ -22,9 +28,9 @@ Appointments
 
 2013-2016: assistant professor, ESIEE Paris, Université Paris Est
 
- 
 
-Education
+
+## Education
 
 HDR (Habilitation to supervise research), Faculté des Sciences, Université de Paris (2021);
 
@@ -32,11 +38,11 @@ PhD, Energy and Process Engineering, Université de Grenoble (2013);
 
 MSc, Refrigeration and Air Conditioning, Shanghai Jiao Tong University (2010);
 
-B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007). 
+B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
- 
 
-Graduate students supervisions
+
+## Graduate students supervisions
 
 -         2 PhD defended (2015-2018, 2017-2020)
 
@@ -44,9 +50,9 @@ Graduate students supervisions
 
 -         In average 2 Master interns per year, 6 months each
 
- 
 
-Awards and prizes
+
+## Awards and prizes
 
 -         Laureate of JTFC (Jeunes Talents France-Chine), MESRI-MEAE, Ambassade de France en Chine, 2018
 
@@ -58,9 +64,9 @@ Awards and prizes
 
 -         Bursary from Tyco International (Johnsons controls), Shanghai Jiao Tong University, 2009
 
-  
 
-Grants
+
+## Grants
 
 -         HiReSoL “High Resolution GIS DH Source-Load Mapping”, resp. for French-side topics, led by KTH and in collaboration with Nottingham Trent University, Energimyndigheten (Swedish Energy Agency), 2021-2024
 
@@ -96,9 +102,9 @@ Grants
 
 -         ESIEE Innovation technologique, 3 k€, 2013
 
- 
 
-Services and memberships
+
+## Services and memberships
 
 -         Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
 
@@ -122,9 +128,9 @@ Services and memberships
 
 -         Regular referee for Elsevier/ASME/AIP/Taylor & Francis/Frontiers journals including “Int. J. Heat and Mass Transfer”, “Applied Energy”, “Energy”, “Energy and Buildings”, “Energy Conversion and Management”, “Chemical Engineering Journal”, “Chemical Engineering Science”, “Energy Efficiency”, “Fuel”, “Int. J. Hydrogen Energy”, “ASME J. of Thermal Science and Engineering Applications”, “Frontiers in Built Environment”, “Frontiers in Energy Research”, “Review of Scientific Instruments”, “Journal of Dispersion Science and Technology”.
 
- 
 
-PhD Committee
+
+## PhD Committee
 
 -         PhD defence examiner, Université de Paris, 30/09/2020 (ZHANG Chuanyu)
 
@@ -132,11 +138,11 @@ PhD Committee
 
 -         Member of committee, ESYCOM, Université Paris Est, 31/05/2018 (GOUMBA Alain Pascal)
 
- 
 
- 
 
-Research interests | current projects 
+
+
+## Research interests | current projects
 
 ·       Acoustic Streaming in mini/microfluidics (in collaboration with MSC lab)
 
@@ -148,11 +154,11 @@ Research interests | current projects
 
 ·       Dynamic simulation of Heat Pumps in service of Domestic Hot Water (DHW) and Heating supply in urban context
 
- 
 
- 
 
-Pedagogical achievements
+
+
+## Pedagogical achievements
 
 -         Coordinator of Engineer diploma in ESIEE Paris for the specialty Energy (3 years teaching program, responsible for 10+ courses, confirmed success with number of students from 20 to 49 per promotion from 2014 to 2020)
 
@@ -160,7 +166,7 @@ Pedagogical achievements
 
 -         Engineering courses in other universities include: “Energy Audit and Energy Efficiency in Buildings” at IMT Lille Douai (2019); “Water-Energy nexus” at Ecole des Ponts (ENPC, 2020).
 
- 
+
 
 Selected publications and patents (full list is here)
 
