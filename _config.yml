@@ -46,13 +46,12 @@ favicons:
 navigation_header:
   - title: Accueil
     url: /
-  - title: Présentation
-    url: /membres/
-  - title: Recherche
-    url: /recherche/
-  - title: Publications
-    url: /publications/
-
+#   - title: Présentation
+#     url: /membres/
+#   - title: Recherche
+#     url: /recherche/
+#   - title: Publications
+#     url: /publications/
 
 # Footer nav
 navigation_footer:
