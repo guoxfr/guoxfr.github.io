@@ -50,8 +50,8 @@ navigation_header:
 #     url: /membres/
 #   - title: Recherche
 #     url: /recherche/
-#   - title: Publications
-#     url: /publications/
+  - title: Publications
+    url: /publications/
 
 # Footer nav
 navigation_footer:

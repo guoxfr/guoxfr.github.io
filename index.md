@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Pr. Xiaofeng GUO
-feature_image: "static/img/cropped-world-map-47959_1280.png"
 ---
 
 # Prof. Xiaofeng Guo, Université de Paris
