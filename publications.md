@@ -3,9 +3,15 @@ layout: page
 title: Publications
 ---
 
-# Publication list
-
 ## Journal articles
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+## Patents
+
 
 ## Conferences
 
