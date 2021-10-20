@@ -5,7 +5,7 @@ title: Publications
 
 ## Journal articles
 <ol reversed>
-  <li>Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, Chemical Engineering Journal 410, 2021, 128252. https://doi.org/10.1016/j.cej.2020.128252    [fulltext](/publi/Zhang2021CEJMixing.pdf)</li>
+  <li>Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, Chemical Engineering Journal 410, 2021, 128252. https://doi.org/10.1016/j.cej.2020.128252    [fulltext](/publi/Zhang2021CEJmixing.pdf)</li>
   <li> Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Unveiling of the mechanisms of acoustic streaming induced by sharp edges, Physical Review E 102, 2020, 043110. https://doi.org/10.1103/PhysRevE.102.043110    fulltext</li>
   <li>Sixiang Lyu, Cheng Wang, Chuanyu Zhang, Laurent Royon, Xiaofeng Guo, Experimental characterization of a novel soft polymer heat exchanger for wastewater heat recovery, International Journal of Heat and Mass Transfer, 2020, 161, 120256. https://doi.org/10.1016/j.ijheatmasstransfer.2020.120256   fulltext</li>
 </ol>
