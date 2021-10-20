@@ -12,6 +12,8 @@ IUT de Paris Pajol
 \
 Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 
+[<img src="static/img/guophddefense2020.jpg" width="250"/>](image.png)
+
 
 Contact info (new since 2021):\
 Xiaofeng.Guo[at]u-paris.fr\
@@ -116,5 +118,8 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
 
 
-## Selected publications and patents (full list is here)
+## Publications ([full list with pdf access](publi))
+[Google Scholar](https://scholar.google.com/citations?user=_5niNDcAAAAJ&hl=en)
+\
+[ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5306-1219)
 
