@@ -15,15 +15,15 @@ title: Publications
 
 5. Chuanyu Zhang, Xiaofeng Guo, Philippe Brunet, Maxime Costalonga, Laurent Royon, Acoustic streaming near a sharp structure and its mixing performance characterization, Microfluidics and Nanofluidics (2019) 23: 104. https://doi.org/10.1007/s10404-019-2271-5   &nbsp; &nbsp; [*PDF*](./publi/zhang mano 2019 streaming_sharp_edges.pdf)
 
-6. Ye Zhu, Cheng Wang, Xiaofeng Guo, Smart utilization of solar energy with Optic-Variable Wall (OVW) for thermal comfort, Energy and Buildings, 202 (2019), 109376, https://doi.org/10.1016/j.enbuild.2019.109376  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
+6. Ye Zhu, Cheng Wang, Xiaofeng Guo, Smart utilization of solar energy with Optic-Variable Wall (OVW) for thermal comfort, Energy and Buildings, 202 (2019), 109376, https://doi.org/10.1016/j.enbuild.2019.109376  &nbsp; &nbsp; [*PDF*](./publi/zhuEnB2019.pdf)
 
 7. Cheng Wang, Ye Zhu, Xiaofeng Guo, Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement, Applied Energy, 253 (2019), 113506, https://doi.org/10.1016/j.apenergy.2019.113506  &nbsp; &nbsp; [*PDF*](./publi/wang2019apen.pdf)
 
-8. Xiaofeng Guo, Alain Pascal Goumba, Cheng Wang, Comparison of Direct and Indirect Active Thermal Energy Storage Strategies for Large-Scale Solar Heating Systems, Energies 2019, 12(10), 1948, https://doi.org/10.3390/en12101948. (**Featured Paper**) &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
+8. Xiaofeng Guo, Alain Pascal Goumba, Cheng Wang, Comparison of Direct and Indirect Active Thermal Energy Storage Strategies for Large-Scale Solar Heating Systems, Energies 2019, 12(10), 1948, https://doi.org/10.3390/en12101948. (**Featured Paper**) &nbsp; &nbsp; [*PDF*](./publi/guo2019energies-12-01948.pdf)
 
 9. Mathieu Bourdeau, Xiao-Qiang Zhai, Elyes Nefzaoui, Xiaofeng Guo, Patrice Chatellier, Modelling and forecasting building energy consumption: a review of data-driven techniques, Sustainable Cities and Society, 48 (2019), https://doi.org/10.1016/j.scs.2019.101533.  &nbsp; &nbsp; [*PDF*](./publi/BourdeauSCS2019.pdf)
 
-10. Cheng Wang, Xiaofeng Guo, Ye Zhu, Energy saving with Optic-Variable Wall for stable air temperature control, Energy, 173 (2019), 38-47, https://doi.org/10.1016/j.energy.2019.02.051.   &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
+10. Cheng Wang, Xiaofeng Guo, Ye Zhu, Energy saving with Optic-Variable Wall for stable air temperature control, Energy, 173 (2019), 38-47, https://doi.org/10.1016/j.energy.2019.02.051.   &nbsp; &nbsp; [*PDF*](./publi/WangcEGY2019.pdf)
 
 11. Xiaofeng Guo, Alain Pascal Goumba, Air source heat pump for domestic hot water supply: performance comparison between individual and building scale installations, Energy, 164 (2018), 794-802, https://doi.org/10.1016/j.energy.2018.09.065.     &nbsp; &nbsp; [*PDF*](./publi/guoegy2018iccrsi.pdf)
 
@@ -33,11 +33,10 @@ title: Publications
 
 14. Xiaofeng Guo, Martin Hendel, Urban water networks as an alternative source for district heating and emergency heat-wave cooling, Energy, Volume 145, 15 February 2018, Pages 79-87, https://doi.org/10.1016/j.energy.2017.12.108.      &nbsp; &nbsp; [*PDF*](./publi/guo2018egy.pdf)
 
-15. Mathieu Bourdeau, Xiaofeng Guo, Elyes Nefzaoui, Buildings energy consumption generation gap: A post-occupancy assessment in a case study of three higher education buildings, Energy and Buildings, Volume 159, 15 January 2018, Pages 600-611, https://doi.org/10.1016/j.enbuild.2017.11.062.  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
+15. Mathieu Bourdeau, Xiaofeng Guo, Elyes Nefzaoui, Buildings energy consumption generation gap: A post-occupancy assessment in a case study of three higher education buildings, Energy and Buildings, Volume 159, 15 January 2018, Pages 600-611, https://doi.org/10.1016/j.enbuild.2017.11.062.  &nbsp; &nbsp; [*PDF*](./publi/bourdeau2018.pdf)
 
 16. Yacine Allab, Margot Pellegrino, Xiaofeng Guo, Elyes Nefzaoui, Andrea Kindinis, Energy and comfort assessment in educational building: case study in a French university campus, Energy and Buildings, Volume 143, 15 May 2017, Pages 202-219, https://doi.org/10.1016/j.enbuild.2016.11.028.  &nbsp; &nbsp; [*PDF*](./publi/Allab2017.pdf)
 
-17. Alain Goumba, Samuel Chiche, Xiaofeng Guo, Morgane Colombert, Patricia Bonneau, Recov’Heat: An estimation tool of urban waste heat recovery potential in sustainable cities, AIP Conference Proceedings 1814, 020038 (2017). http://doi.org/10.1063/1.4976257   &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
 
 18. Xiaofeng Guo, Yilin Fan, Lingai Luo, Multi-channel heat exchanger-reactor using arborescent distributors: A characterization study of fluid distribution, heat exchange performance and exothermic reaction, Energy, Volume 69, 1 May 2014, Pages 728-741, http://doi.org/10.1016/j.energy.2014.03.069. &nbsp; &nbsp; [*PDF*](./publi/guo2014egy.pdf)
 
@@ -52,8 +51,107 @@ title: Publications
  
 
 ## Patents
+1. Xiaofeng Guo, Flexible heat exchanger intended to be positioned in a moving exterior fluid, comprising a collection of flexible temperature probes, French/European Patent, issued on 12/03/2020, PCT: WO2020049233A1    &nbsp; &nbsp; [*PDF*](./publi/WO2020049233A1.pdf)
+
+2. Xiaofeng Guo, Carole LENCHI, Lara LAUGAR, Andre Luiz MARTINS BRAGA, Matheus DE OLIVEIRA VILELA, Kelly Aparecida RIBEIRO DE FARIA SANTOS, Buse pour système de ventilation d’habitacle de véhicules et Procédé de ventilation d’air en climatisation mettant en œuvre une telle buse, French Patent, 21/07/2017, Application No.: FR3046752A1  &nbsp; &nbsp;  [*link*](https://patents.google.com/patent/FR3046752A1/en)
+
+3. Xiaofeng Guo, Jingyi Wu, Zaizhong Xia et.al., Generating System for Adjustable Temperature Field on a Flat Plate, Invention Patent, Issued in May 2009, No.: 2009 1004 8231.9
+
+4. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu, et.al., Control Method for the Quick Fluctuation of Liquid Temperature Using Heating and Cooling Counteracting, Invention Patent, Issued in May 2009, No.: 2009 1004 8232.3
+
+5. Xiaofeng Guo, Zunhua Zhang and Fangping Yu, Intelligent Circuit Breaker, Application Patent, Certificate No.: ZL 2005 20096776.7. Effective in May 2005.
+
+## Conference proceedings
+1. Thibault Colchen, Chang Su, Xiaofeng Guo, A hybrid novel tool for city scale building heating demand estimation, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
+
+1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
+
+1. Cheng Wang, Junsheng Yu, Xinyang Zhang, Qiankun Li, Shixuan Xu, Ye Zhu, Jian Qu, Xiaofeng Guo, A novel operation strategy of OHP for thermal management to deal with local hot spots, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
+
+1. Cheng Wang, Shixuan Xu, Qiankun Li, Xinyang Zhang, Junsheng Yu, Ye Zhu, Jian Qu and Xiaofeng Guo, Integration of OVW and PCM for thermal comfort in passive buildings, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
+
+1. Chuanyu Zhang, Xiaofeng Guo, Philippe Brunet, Laurent Royon, The effect of sharp-edge acoustic streaming on mixing in a microchannel, Annales du Congrès annuel de la SFT 2020. https://doi.org/10.25855/sft2020-041   &nbsp; &nbsp; [*PDF*](./publi/Zhang2020SFT_doi.pdf)
+
+1. Chuanyu Zhang, Xiaofeng Guo, Philippe Brunet, Laurent Royon, Comparing direct numerical simulation and perturbation theory on the modelling of acoustic induced streaming around sharp edges, CMiF (9th international Summer School  Complex Motion in Fluids 2019), Gilleleje, Denmark, 18-24 Aug 2019.
+
+1. Chuanyu Zhang, Xiaofeng Guo, Philippe Brunet and Laurent Royon, Work-in-Progress: Experimental study of acoustic induced streaming around sharp edge in a Y-type mixing channel, Congrès français de thermique SFT2019, Thermique et Industrie du future, 3-6 juin 2019, Nantes, FRANCE
+
+1. Cheng Wang, Ye Zhu, Xiaofeng Guo, Energy-saving in buildings with the integration of Optic-Variable Wall (OVW) and Transparent Insulation Layer (TIL), 5th Sustainable Thermal Energy Management International Conference, SusTEM2019, 14-16 May 2019, Hangzhou, CHINA
+
+1. Shaun Ferdous, E Nefzaoui, Frédéric Marty, Mazen Erfan, Bruno Mercier, Magdalèna Couty, Xiaofeng Guo, Olivier Français, Tarik Bourouina, Ateliers et Travaux Pratiques sur le thème des Capteurs pour l’Eau. 15ème Journée pédagogique du CNFM 2018, 7-9 Nov 2018, St Malo, FRANCE
+
+1. Chuanyu Zhang, Xiaofeng Guo, Philippe Brunet and Laurent Royon, Experimental study of acoustic induced streaming around sharp edges in a Y-type mixing channel, Acoustofluidics 2018, 29-31 August 2018, Lille, FRANCE
+
+1. Xiaofeng Guo, Lingai Luo, Yilin Fan, Etude caractéristique des procédés intensifiés dans un échangeur-réacteur multifonctionnel, 16ème Congrès de la Société Française de Génie des Procédés SFGP2017, 11-13 July 2017, Nancy, FRANCE
+
+12. Alain GOUMBA, Samuel CHICHE, Xiaofeng GUO, Recov’Heat: An estimation tool of urban waste heat recovery potential in sustainable cities, TMREES16 Int’l Conf. Fall Meeting, ‘’Technologies and Materials for Renewable Energy, Environment and Sustainability’’, 16-18 November 2016, Paris, FRANCE. (Second prize award)
+
+17. Alain Goumba, Samuel Chiche, Xiaofeng Guo, Morgane Colombert, Patricia Bonneau, Recov’Heat: An estimation tool of urban waste heat recovery potential in sustainable cities, AIP Conference Proceedings 1814, 020038 (2017). http://doi.org/10.1063/1.4976257   &nbsp; &nbsp; [*PDF*](./publi/goumba2017aip.pdf)
+
+13. Xiaofeng Guo, Yilin Fan, Lingai Luo, Residence Time Distribution on flow characterisation of multi-fluidic systems, Part I: modelling, proceedings of Eurotherm Seminar 106, “Physical and chemical phenomena in heat exchanger and multifunctional reactor for sustainable technology”, 10-11 October 2016, Paris, FRANCE
+
+14. Xiaofeng Guo, Yilin Fan, Lingai Luo, Residence Time Distribution on flow characterisation of multi-fluidic systems, Part II: experimentation, proceedings of Eurotherm Seminar 106, “Physical and chemical phenomena in heat exchanger and multifunctional reactor for sustainable technology”, 10-11 October 2016, Paris, FRANCE
+
+15. Yacine ALLAB, Margot PELLEGRINO, Xiaofeng GUO, Andrea KINDINIS, Elyes NEFZAOUI, Energy efficiency of existing buildings: A case study of a French higher education campus, IBPSA France 2016, 23-24 May 2016, Champs sur Marne, FRANCE
+
+16. Samuel CHICHE, Alain GOUMBA, Patricia BONNEAU, Xiaofeng GUO, Morgane COLOMBERT, Recov’Heat : Outil d’estimation du potentiel de sources de chaleur fatale en milieu urbain, SFT2016, Congrès Français de Thermique, 31 May - 03 June 2016, Toulouse, FRANCE
+
+17. Xiaofeng GUO, Alain P. GOUMBA, François ROCARIES, Tarik BOUROUINA, Dong ZHAO, Jun ZHAO, Shuai DENG, Process Intensification technologies applied to Thermal Energy Storage – Principles, successful applications and perspectives, SDH2015, 3rd International Conference on Solar District Heating, 17-18 June 2015, Toulouse, FRANCE
+
+18. Alain P. GOUMBA, Xiaofeng GUO, Marc CLAUSSE, François ROCARIES, Tarik BOUROUINA, Stratégies d’implantation de système Pompe à chaleur en milieu urbain – de l’installation individuelle au collectif, SFT 2015, Congrès Français de Thermique, 26-29 May 2015, La Rochelle, FRANCE
+
+19. Xiaofeng Guo, Yilin Fan, Lingai Luo, Thermal Performance of a Multi-Channel Heat Exchanger-Reactor, proceedings of IHTC-15, the 15th International Heat Transfer Conference, August 10-15, 2014, Kyoto, JAPAN
+
+20. Xiaofeng Guo, Yilin Fan, Lingai Luo, Intensification des transferts dans un mini-échangeur multicanaux multifonctionnel, the 9ème Congrès Francophone de Génie des Procédés, CFGP 2014, Agadir, MAROC, 28-30 Avril 2014
+
+21. Xiaofeng Guo, Yilin Fan, Lingai Luo, Multifunctional exchanger-reactor: a design, fabrication and experimental study, Congrès Français de Thermique, SFT 2013, Gérardmer, FRANCE, 28-31 May 2013
+
+22. Xiaofeng Guo, Yilin Fan, Lingai Luo, Flow distribution and mixing performance of a novel multichannel heat exchanger reactor, in Session on ‘Heat and Mass Transfer 6’,  Proceedings of HEFAT2012, the 9th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics, 16 – 18 July 2012, MALTA. (Best paper award)
+
+23. Lingai Luo, Yilin Fan, Xiaofeng Guo, Multi-functional heat exchangers for heat and mass transfer intensification, XIIIème congrès Société  Française  de Génie des Procédés, SFGP, Lille, FRANCE, November 29 – December 1, 2011
+
+24. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu et.al., Prediction of the Temperature Rising Characteritic of Underground Power Transmission Tunnel, ASME US-EU-China Thermophysics Conference, 2009, Beijing, CHINA, http://dx.doi.org/10.1115/1.802908.paper92 
+
+25. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu et.al., Research and Optimum Analysis on Temperature Field Prediction of Underground Power Transmission Tunnel, Engineering Thermophysics Society of China Annual Conference, 2009, Dalian, CHINA
+
+26. Xiaofeng Guo, Jingyi Wu and Ruzhu Wang, Control Method for Water Temperature of Direct Heating Heat Pump Water Heater, Engineering Thermophysics Society of China Annual Conference, 2009, Dalian, CHINA
+
+27. Xiaofeng Guo, Jingyi Wu and Zhiqiang Chen, Experimental Research on Intelligent Control of Direct Heating Heat Pump Water Heater, China Association of Refrigeration Annual Conference, 2009,Tianjin, CHINA
 
 
-## Conferences
+
+
+## Conference abstracts & posters
+1. Xiaofeng Guo, Alain Pascal Goumba, Air source heat pump for domestic hot water supply - Performance comparison between individual and building scale installations, the 6th International Conference on Cryogenics and Refrigeration 2018 (ICCR2018), April 12-14, 2018, Shanghai, CHINA
+
+1. Xiaofeng Guo, Yilin Fan, Lingai Luo, Flow distribution and mixing evaluation of a novel multichannel heat exchanger reactor, in Session: 3, Fundamentals - fluidic, mixing, mass & heat transfer, IMRET 12, 12th International Conference on Microreation Technology, February 20-22, 2012, Lyon, FRANCE.
+
+1. Xiaofeng Guo, Yilin Fan, Lingai Luo, Intensification des procèdes par échangeur-réacteur multicanaux, Journée scientifique du CODEGEPRA (Comité de Développement du Génie des Procédés en Rhône-Alpes), Ecole Nationale Supérieure des Mines de Saint-Etienne, 18 octobre 2012
+
+1. Xiaofeng Guo, Yilin Fan, Lingai Luo, Design and mixing performance assessment of a multichannel heat exchanger reactor. 5th annual meeting of Sino-French Laboratory for Sustainable Energy, June 18 -19, 2011, Nantes, FRANCE.
+
+
+## Reports
+1. Xiaofeng Guo, Etat de l’art du stockage thermique - Couplages technologiques au service d’un mix énergétique urbain optimisé, EFFICACITY, 2015, 48p.
+
+2. Xiaofeng Guo, Intensification des transferts dans un mini-échangeur multicanaux multifonctionnel, PhD dissertation, Université de Grenoble, 2013, 188p.
+
+3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks
+1. Interdisciplinary energy research for a low-carbon future: interactions with material, big-data and biomimetic approaches, International Symposium on Green Ship Design and New Energy Technology, Wuhan University of Technology, 10th April 2021 (keynote)
+
+2. Cascade use of thermal energy for a low carbon building in urban context, Changzhou University, 23 September 2020
+
+3. Sustainable energy development – from component enhancement to system optimization, the 2nd WUT International Young Scholars Forum, Wuhan University of Technology, Wuhan, CHINA, 29 Mar – 01 Apr 2018
+
+4.  Transition énergétique pour la ville durable : besoins thermiques, sources, et solutions, Paris Interdisciplinary Energy Research Institute, LIED UMR 8236, CNRS Univ Paris Diderot VII, Paris, 16 octobre 2017
+
+5. Energies Renouvelables et Récupération pour la Ville Durable, COP21/CMP11 - Climate Generations areas, Stands and exhibitions animations, Sino-French Urban Sustainable Development Association (AFCDUD, Association Franco-Chinoise du Développement Urbain Durable), Paris Le Bourget, 09 Dec 2015.
+
+6. Activities of research and  teaching in Energy Engineering in ESIEE Paris - Université Paris Est, Wuhan University of Technology, Wuhan, CHINA, Nov. 2014.
+
+7. Activities of research and  teaching in Energy Engineering in ESIEE Paris - Université Paris Est, Ecole d’ingénieurs ParisTech-Shanghai Jiao Tong University, Shanghai, CHINA, Jul. 2015.
+
+8. Sustainable energy development – from basic physical principles to cutting edge research topics, Zhejiang Ocean University, Zhoushan, CHINA, Apr. 29 2016
+
