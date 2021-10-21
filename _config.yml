@@ -48,6 +48,14 @@ navigation_header:
     url: /
   - title: Publications
     url: /publications/
+  - title: Projects
+    url: /projects/
+      - title: Teaching
+    url: /teach/
+      - title: CV
+    url: /CV/
+      - title: Contact
+    url: /contact/
 
 # Footer nav
 navigation_footer:
