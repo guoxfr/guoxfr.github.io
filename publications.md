@@ -6,7 +6,7 @@ title: Publications
 ## Journal articles
 
 
-Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, Chemical Engineering Journal 410, 2021, 128252. [doi](https://doi.org/10.1016/j.cej.2020.128252)    [fulltext](./publi/Zhang2021CEJmixing.pdf)
+Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, Chemical Engineering Journal 410, 2021, 128252. https://doi.org/10.1016/j.cej.2020.128252    [fulltext](./publi/Zhang2021CEJmixing.pdf)
 
 
 <ol reversed>
