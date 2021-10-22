@@ -50,11 +50,11 @@ navigation_header:
     url: /publications/
   - title: Projects
     url: /projects/
-   - title: Teaching
+  - title: Teaching
     url: /teach/
-      - title: CV
+  - title: CV
     url: /CV/
-      - title: Contact
+  - title: Contact
     url: /contact/
 
 # Footer nav
