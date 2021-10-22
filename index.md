@@ -17,7 +17,7 @@ Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 
 Contact info (new since 2021):\
 Xiaofeng.Guo[at]u-paris.fr\
-To come to my lab: https://physique.u-paris.fr/structures/ufr-physique
+To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
 
 ## Appointments
 2021-: full professor, Université de Paris, IUT de Paris Pajol \
