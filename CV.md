@@ -3,8 +3,8 @@ layout: page
 title: CV
 ---
 
-# Mini CV
+## Mini CV
 *updated 2021.09*
 
-# Long CV 
+## Long CV 
 *updated 2021.09*
