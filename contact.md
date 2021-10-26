@@ -1,7 +1,3 @@
----
-layout: page
-title: Contact
----
 
 
 Université de Paris
