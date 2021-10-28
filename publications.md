@@ -62,7 +62,13 @@ title: Publications
 5. Xiaofeng Guo, Zunhua Zhang and Fangping Yu, Intelligent Circuit Breaker, Application Patent, Certificate No.: ZL 2005 20096776.7. Effective in May 2005.
 
 ## Conference proceedings
-1. Thibault Colchen, Chang Su, Xiaofeng Guo, A hybrid novel tool for city scale building heating demand estimation, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
+
+
+1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, Acoustofluidics 2021, 26-27 August 2021
+
+1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, JSUP 2021 6èmes Journées Scientifiques Ultrasons et Procédés, 5-7 July, 2021, Lille
+
+3. Thibault Colchen, Chang Su, Xiaofeng Guo, A hybrid novel tool for city scale building heating demand estimation, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
 
 1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, 15th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics & Applied Thermal Engineering (ATE-HEFAT 2021), 25 – 28 July 2021
 
@@ -122,6 +128,11 @@ title: Publications
 
 
 ## Conference abstracts & posters
+1. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, YingWen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, Acoustofluidics 2021, 26-27 August 2021
+
+1. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, Yingwen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, JSUP 2021 6èmes Journées Scientifiques Ultrasons et Procédés, 5-7 July, 2021, Lille
+
+
 1. Xiaofeng Guo, Alain Pascal Goumba, Air source heat pump for domestic hot water supply - Performance comparison between individual and building scale installations, the 6th International Conference on Cryogenics and Refrigeration 2018 (ICCR2018), April 12-14, 2018, Shanghai, CHINA
 
 1. Xiaofeng Guo, Yilin Fan, Lingai Luo, Flow distribution and mixing evaluation of a novel multichannel heat exchanger reactor, in Session: 3, Fundamentals - fluidic, mixing, mass & heat transfer, IMRET 12, 12th International Conference on Microreation Technology, February 20-22, 2012, Lyon, FRANCE.
