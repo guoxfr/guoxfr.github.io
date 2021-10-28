@@ -81,6 +81,8 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
 
 ## Services and memberships
+- Scientitic advisory board, HEFAT 2021 conference
+- Session chair, HEFAT 2021 conference
 - Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
 - Coordinator of task group “Energy” in EquipEx SenseCity (PIA2), 2018-
 - Session chair, the 6th International Conference on Cryogenics and Refrigeration 2018 (ICCR2018), April 12-14, 2018, Shanghai
