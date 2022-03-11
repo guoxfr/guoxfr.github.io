@@ -143,7 +143,10 @@ title: Publications
 
 
 ## Reports
-1. Xiaofeng Guo, Etat de l’art du stockage thermique - Couplages technologiques au service d’un mix énergétique urbain optimisé, EFFICACITY, 2015, 48p.
+1. Xiaofeng Guo, Deep energy efficiency improvement towards sustainable building heating and cooling, a multi-scale approach, HDR dissertation, Université de Paris, 2021, 200p.
+
+
+3. Xiaofeng Guo, Etat de l’art du stockage thermique - Couplages technologiques au service d’un mix énergétique urbain optimisé, EFFICACITY, 2015, 48p.
 
 2. Xiaofeng Guo, Intensification des transferts dans un mini-échangeur multicanaux multifonctionnel, PhD dissertation, Université de Grenoble, 2013, 188p.
 
