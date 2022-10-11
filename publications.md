@@ -153,6 +153,9 @@ title: Publications
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks
+
+1. Efficient energy management of buildings: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
+
 1. Interdisciplinary energy research for a low-carbon future: interactions with material, big-data and biomimetic approaches, International Symposium on Green Ship Design and New Energy Technology, Wuhan University of Technology, 10th April 2021 (keynote)
 
 2. Cascade use of thermal energy for a low carbon building in urban context, Changzhou University, 23 September 2020
