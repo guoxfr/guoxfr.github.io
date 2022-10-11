@@ -154,7 +154,7 @@ title: Publications
 
 ## Invited talks, keynotes
 
-1. Efficient energy management of buildings: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
+1. Efficient energy management from building to district: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
 
 1. Interdisciplinary energy research for a low-carbon future: interactions with material, big-data and biomimetic approaches, International Symposium on Green Ship Design and New Energy Technology, Wuhan University of Technology, 10th April 2021 (**keynote**)
 
