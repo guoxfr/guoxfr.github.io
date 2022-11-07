@@ -81,7 +81,7 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
 
 ## Referee and editorial services
-- Young Editor Board member, Journal of Energy Storage and Saving (Elsevier), since 2022
+- Young Editor Board member, Energy Storage and Saving (Elsevier), since 2022
 - Topic editor for "Frontiers in Built Environment", 2022
 - Review editor for "Frontiers in Energy Efficiency", since 2022
 - Scientitic advisory board, ATE-HEFAT 2021 conference
