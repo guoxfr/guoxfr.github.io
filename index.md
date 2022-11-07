@@ -80,7 +80,10 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 - ESIEE Innovation technologique, 3 k€, 2013
 
 
-## Services and memberships
+## Referee and editorial services
+- Young Editor Board member, Journal of Energy Storage and Saving (Elsevier), since 2022
+- Topic editor for "Frontiers in Built Environment", 2022
+- Review editor for "Frontiers in Energy Efficiency", since 2022
 - Scientitic advisory board, ATE-HEFAT 2021 conference
 - Session chair, ATE-HEFAT 2021 conference
 - Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
