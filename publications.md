@@ -154,7 +154,7 @@ title: Publications
 
 ## Invited talks, keynotes
 
-1. Echangeur FLEXER & Récupération d’énergie : Caractérisation d’un nouvel échangeur polymère, Les Journées Techniques du GRETh, 16-17 novembre 2022  (**invité**)
+1. Echangeur FLEXER & Récupération d’énergie : Caractérisation d’un nouvel échangeur polymère, Les Journées Techniques du GRETh, Aix les Bains, 16-17 novembre 2022  (**invité**)
 1. Transfer enhancement by low-frequency acoustic streaming, School of Mechanical Engineering, Xi'an Jiao Tong University, 28 Oct 2022  (**invited**)
 2. Efficient energy management from building to district: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
 
