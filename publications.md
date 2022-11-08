@@ -5,6 +5,9 @@ title: Publications
 
 ## Journal articles
 
+
+1. Geyu Zhong, Chuanyu Zhang, Xiaofeng Guo, Peng Yang and Yingwen Liu, Traveling of oscillating vortices and its thermal effects in a bending channel, Journal of Heat Transfer (ASME), *in press*
+
 1. Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, Chemical Engineering Journal 410, 2021, 128252. https://doi.org/10.1016/j.cej.2020.128252  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
 
 2. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Unveiling of the mechanisms of acoustic streaming induced by sharp edges, Physical Review E 102, 2020, 043110. https://doi.org/10.1103/PhysRevE.102.043110     &nbsp; &nbsp; [*PDF*](./publi/Zhang2020PRE.pdf)
