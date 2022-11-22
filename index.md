@@ -101,7 +101,7 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
 
 ## PhD Committee
-- PhD defence examiner, Université Gustave Eiffel, 20/11/2022 (BOURDEAU Mathieu)
+- PhD defence examiner (président du jury), Université Gustave Eiffel, 20/11/2022 (BOURDEAU Mathieu)
 - PhD defence examiner, Université Gustave Eiffel, 10/12/2021 (SARKAR Sreyash)
 - PhD defence examiner, Université de Paris, 30/09/2020 (ZHANG Chuanyu)
 - PhD defence evaluator, KTH Stockholm, department of Energy, Sweden, 17/12/2019 (SU Chang)
