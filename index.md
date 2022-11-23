@@ -61,6 +61,7 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
 ## Grants
 
+- PajolConnecté - Non-intruisive multiphysics monitoring of the Pajol building on energy and comfort, PI, IdEx Université Paris Cité, 53.3 k€, 2022-2024
 - HiReSoL “High Resolution GIS DH Source-Load Mapping”, resp. for French-side topics, led by KTH and in collaboration with Nottingham Trent University, Energimyndigheten (Swedish Energy Agency), 2021-2024
 - CPER Ile de France, Ilot de Fraicheur Urbain, participant, 2020-
 - SweetCities to RISE, PI, I-SITE FUTURE Mobility funding, in collaboration with KTH Royal Institute of Technology, Stockholm, 2020-2021
