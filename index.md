@@ -65,7 +65,7 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 - ICCAR - Interfaces Conductrices pour le Chauffage et l’Alimentation des Routes, Co-I, financement
 ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - HiReSoL “High Resolution GIS DH Source-Load Mapping”, resp. for French-side topics, led by KTH and in collaboration with Nottingham Trent University, Energimyndigheten (Swedish Energy Agency), 2021-2024
-- CPER Ile de France, Ilot de Fraicheur Urbain, participant, 2020-
+- CPER Ile de France, Ilot de Fraicheur Urbain, participant, 2020-2021
 - SweetCities to RISE, PI, I-SITE FUTURE Mobility funding, in collaboration with KTH Royal Institute of Technology, Stockholm, 2020-2021
 - AUE-EU-China “Advanced Urban Energy – an EU-China comparison”, PI, I-SITE FUTURE Mobility funding, in collaboration with Changzhou University, 2019-2021
 - SimSenseEnergie, PI, I-SITE FUTURE, in collaboration with IFSTTAR Sense-City, 2020-2022
