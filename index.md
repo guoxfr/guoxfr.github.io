@@ -84,8 +84,8 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Referee and editorial services
-- Corresponding expert, Engineering (Elsevier & CAE), 2022-
-- Young Editor Board member, Energy Storage and Saving (Elsevier), since 2022
+- Corresponding expert, "Engineering" (Elsevier & CAE), 2022-
+- Young Editor Board member, "Energy Storage and Saving" (Elsevier), since 2022
 - Topic editor for "Frontiers in Built Environment", 2022
 - Review editor for "Frontiers in Energy Efficiency", since 2022
 - Scientitic advisory board, ATE-HEFAT 2021 conference
