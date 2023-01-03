@@ -44,8 +44,8 @@ B’Eng, Thermal and Power Engineering, Wuhan University of Technology (2007).
 
 
 ## Graduate students supervisions
-- 2 PhD defended (2015-2018, 2017-2020)
-- 2 PhD supervisions at 50%, for periods of 2020-2024 and 2020-2022
+- 3 PhD defended (2018, 2020, 2022)
+- 2 PhD supervisions at 50%, for periods of 2020-2024 and 2021-2024
 - In average 2 Master interns per year, 6 months each
 
 
@@ -84,13 +84,14 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Referee and editorial services
+- Corresponding expert, Engineering (Elsevier & CAE), 2022-
 - Young Editor Board member, Energy Storage and Saving (Elsevier), since 2022
 - Topic editor for "Frontiers in Built Environment", 2022
 - Review editor for "Frontiers in Energy Efficiency", since 2022
 - Scientitic advisory board, ATE-HEFAT 2021 conference
 - Session chair, ATE-HEFAT 2021 conference
 - Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
-- Coordinator of task group “Energy” in EquipEx SenseCity (PIA2), 2018-
+- Coordinator of task group “Energy” in EquipEx SenseCity (PIA2), 2018-2020
 - Session chair, the 6th International Conference on Cryogenics and Refrigeration 2018 (ICCR2018), April 12-14, 2018, Shanghai
 - Evaluation expert for the National Science Centre of Poland (2020)
 - Evaluation expert for EPSRC The Engineering and Physical Sciences Research Council of the UK, (2019, 2020)
