@@ -6,7 +6,7 @@ title: Publications
 ## Journal articles
 
 
-1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon and Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, Journal of Energy Storage, *under revision*
+1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon and Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, Journal of Energy Storage, *to appear*
 
 2. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E, *to appear*
 
