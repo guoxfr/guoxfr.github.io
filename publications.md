@@ -71,6 +71,7 @@ title: Publications
 
 ## Conference proceedings
 
+1. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023
 
 1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, Acoustofluidics 2021, 26-27 August 2021
 
