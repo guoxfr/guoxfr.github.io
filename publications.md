@@ -7,7 +7,7 @@ title: Publications
 
 
 
-1. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E, *to appear*
+1. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E 107, 2023, 025102, https://doi.org/10.1103/PhysRevE.107.025102
 
 1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon and Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, Journal of Energy Storage 61, 2023, 106799. https://doi.org/10.1016/j.est.2023.106799 &nbsp; &nbsp; [*PDF*](./publi/Zhang2023JESsewer.pdf)
 
@@ -50,11 +50,11 @@ title: Publications
 
 19. Xiaofeng Guo, Yilin Fan, Lingai Luo, Mixing performance assessment of a multi-channel mini heat exchanger reactor with arborescent distributor and collector, Chemical Engineering Journal, Volume 227, 1 July 2013, Pages 116-127, http://doi.org/10.1016/j.cej.2012.08.068. &nbsp; &nbsp; [*PDF*](./publi/guo2013cej.pdf)
 
-20. MENG Feng, AN Qingsong, GUO Xiaofeng, ZHAO Jun, DENG Shuai, ZHAO Dong, A review of process intensification technology in thermal energy storage, Chemical Industry and Engineering Progress, 35(5), 1273-1282, 2016.05 (Chinese)
+20. MENG Feng, AN Qingsong, GUO Xiaofeng, ZHAO Jun, DENG Shuai, ZHAO Dong, A review of process intensification technology in thermal energy storage, Chemical Industry and Engineering Progress, 35(5), 1273-1282, 2016.05
 
-21. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu, Ruzhu Wang, Yu Meng, Research and Optimum Analysis on Temperature Field Prediction of Underground Power Transmission Tunnel, Journal of Engineering Thermophysics, 31(5), 827-830, 2010.05 (Chinese)
+21. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu, Ruzhu Wang, Yu Meng, Research and Optimum Analysis on Temperature Field Prediction of Underground Power Transmission Tunnel, Journal of Engineering Thermophysics, 31(5), 827-830, 2010.05
 
-22. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu et.al., Numerical Analysis and Similarity Experiment on Temperature Field of Underground Pipe, Acta Energiae Solaris Sinica, 2010.06 (Chinese)
+22. Xiaofeng Guo, Zaizhong Xia, Jingyi Wu et.al., Numerical Analysis and Similarity Experiment on Temperature Field of Underground Pipe, Acta Energiae Solaris Sinica, 2010.06
 
  
 
