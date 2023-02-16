@@ -7,7 +7,7 @@ title: Publications
 
 
 
-1. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E 107, 2023, 025102, https://doi.org/10.1103/PhysRevE.107.025102
+1. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E 107, 2023, 025102, https://doi.org/10.1103/PhysRevE.107.025102 &nbsp; &nbsp; [*PDF*](./publi/Zhong2023PRE.pdf)
 
 1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon and Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, Journal of Energy Storage 61, 2023, 106799. https://doi.org/10.1016/j.est.2023.106799 &nbsp; &nbsp; [*PDF*](./publi/Zhang2023JESsewer.pdf)
 
