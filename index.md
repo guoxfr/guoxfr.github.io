@@ -20,8 +20,9 @@ Xiaofeng.Guo[at]u-paris.fr\
 To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
 
 # Latest news 
-> I'm editing a special issue for Biosensors (IF 5.743). The topic is "Acoustic Microfluidic Devices: From Fabrication to Application", [link here](https://www.mdpi.com/journal/biosensors/special_issues/Y37EVF7U1I)   \
-> If you have relevant manuscripts and wish to publish in this special issue, please let me know. I've several free APC tokens. 
+> **2023.03\
+> I'm editing a special issue for Biosensors (IF 5.743). The topic is "Acoustic Microfluidic Devices: From Fabrication to Application", [link here](https://www.mdpi.com/journal/biosensors/special_issues/Y37EVF7U1I)\
+> If you have relevant manuscripts and wish to publish in this special issue, please let me know. I've several free APC tokens.\
 
 
 
