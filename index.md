@@ -29,7 +29,7 @@ To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
 
 
 ## Appointments
-2021-: full professor, Université de Paris, IUT de Paris Pajol \
+Since 2021: full professor, Université de Paris, IUT de Paris Pajol \
 2020-2021: full-time visiting researcher at CNRS (LIED)\
 2017- 2021: associate professor, ESIEE Paris, Université Gustave Eiffel (former Paris Est Univ), Course director of Diplôme d'ingénieur in Energie
 \
