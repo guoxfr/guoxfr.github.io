@@ -15,7 +15,7 @@ Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 [<img src="static/img/guophddefense2020.jpg" width="250"/>](image.png)
 
 
-Contact info (new since 2021):\
+Contact info:\
 Xiaofeng.Guo[at]u-paris.fr\
 To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
 
