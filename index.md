@@ -19,6 +19,15 @@ Contact info (new since 2021):\
 Xiaofeng.Guo[at]u-paris.fr\
 To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
 
+## Latest news 
+> I'm editing a special issue for Biosensors (IF 5.743). The topic is "Acoustic Microfluidic Devices: From Fabrication to Application", link below:\
+> https://www.mdpi.com/journal/biosensors/special_issues/Y37EVF7U1I   \
+> If you have relevant manuscripts and wish to publish in this special issue, please let me know. I've several free APC tokens. 
+
+
+
+
+
 ## Appointments
 2021-: full professor, Université de Paris, IUT de Paris Pajol \
 2020-2021: full-time visiting researcher at CNRS (LIED)\
