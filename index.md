@@ -110,7 +110,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Member of Société Française de Thermique and Société Française de Génies des Procédés
 - Member of China Society of Thermophysics, China Society of HVAC&R
 - Member of the editorial board for “Frontiers in Mechanical Engineering”
-- Regular referee for Elsevier/ASME/AIP/Taylor & Francis/Frontiers journals including “Int. J. Heat and Mass Transfer”, “Applied Energy”, “Energy”, “Energy and Buildings”, “Energy Conversion and Management”, “Chemical Engineering Journal”, “Chemical Engineering Science”, “Energy Efficiency”, “Fuel”, “Int. J. Hydrogen Energy”, “ASME J. of Thermal Science and Engineering Applications”, “Frontiers in Built Environment”, “Frontiers in Energy Research”, “Review of Scientific Instruments”, “Journal of Dispersion Science and Technology”.
+- Regular referee for Elsevier/ASME/AIP/Taylor & Francis/Frontiers journals including "Micro & Nano Letters", "Physics of Fluids", “Int. J. Heat and Mass Transfer”, “Applied Energy”, “Energy”, “Energy and Buildings”, “Energy Conversion and Management”, “Chemical Engineering Journal”, “Chemical Engineering Science”, “Energy Efficiency”, “Fuel”, “Int. J. Hydrogen Energy”, “ASME J. of Thermal Science and Engineering Applications”, “Frontiers in Built Environment”, “Frontiers in Energy Research”, “Review of Scientific Instruments”, “Journal of Dispersion Science and Technology”.
 
 
 
