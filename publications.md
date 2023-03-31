@@ -137,7 +137,10 @@ title: Publications
 
 
 ## Conference abstracts & posters
-1. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, YingWen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, Acoustofluidics 2021, 26-27 August 2021
+
+1. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Asymmetric streaming induced by large amplitude vibrations near a sharp obstacle, RENCONTRE DU NON-LINÉAIRE, 03/2023, Paris
+
+3. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, YingWen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, Acoustofluidics 2021, 26-27 August 2021
 
 1. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, Yingwen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, JSUP 2021 6èmes Journées Scientifiques Ultrasons et Procédés, 5-7 July, 2021, Lille
 
