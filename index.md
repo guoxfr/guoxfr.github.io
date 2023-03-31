@@ -116,6 +116,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 ## PhD Committee
 - PhD defence examiner (président du jury), Université Gustave Eiffel, 20/11/2022 (BOURDEAU Mathieu)
+- PhD defence examiner, Université Gustave Eiffel, 03/02/2022 (GAO Lan)
 - PhD defence examiner, Université Gustave Eiffel, 10/12/2021 (SARKAR Sreyash)
 - PhD defence examiner, Université de Paris, 30/09/2020 (ZHANG Chuanyu)
 - PhD defence evaluator, KTH Stockholm, department of Energy, Sweden, 17/12/2019 (SU Chang)
