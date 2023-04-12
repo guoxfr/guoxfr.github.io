@@ -115,6 +115,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## PhD Committee
+- Rapporteur de thèse, Université de Lille, 02/06/2023 (AHOURE Louis)
 - PhD defence examiner (président du jury), Université Gustave Eiffel, 20/11/2022 (BOURDEAU Mathieu)
 - PhD defence examiner, Université Gustave Eiffel, 03/02/2022 (GAO Lan)
 - PhD defence examiner, Université Gustave Eiffel, 10/12/2021 (SARKAR Sreyash)
