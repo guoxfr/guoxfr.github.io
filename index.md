@@ -150,6 +150,15 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 
+## Former students
+- Geyu ZHONG, PhD, 2022
+- Chuanyu ZHANG, PhD (CSC funding), defended 2020/09, (postdoc at Université Gustave Eiffel - IFSTTAR), 2017-2020
+- Mathieu BOURDEAU, collaborative project exchange (University of Paris Est and Shanghai Jiao Tong University), 2017-2018
+- Alain Pascal GOUMBA, PhD, defended 2018/05 (Research Engineer in Efficacity)
+- Matheus DE OLIVEIRA VILELA, Master, 2016
+- Soufiane ACOUDAD, Engineer, 2015
+- Arinaly RALAHY, Engineer, 2015
+
 ## Publications (full list with pdf access see [Publications](publications))
 [Google Scholar](https://scholar.google.com/citations?user=_5niNDcAAAAJ&hl=en)
 \
