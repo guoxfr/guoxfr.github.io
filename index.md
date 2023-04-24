@@ -101,7 +101,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Young Editor Board member, "Energy Storage and Saving" (Elsevier), since 2022
 - Topic editor for "Frontiers in Built Environment", 2022
 - Review editor for "Frontiers in Energy Efficiency", since 2022
-- Scientitic advisory board, ATE-HEFAT 2021 conference
+- Scientific advisory board, ATE-HEFAT 2021 conference
 - Session chair, ATE-HEFAT 2021 conference
 - Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
 - Coordinator of task group “Energy” in EquipEx SenseCity (PIA2), 2018-2020
@@ -135,11 +135,18 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Dynamic simulation of Heat Pumps in service of Domestic Hot Water (DHW) and Heating supply in urban context
 
 
+
 ## Pedagogical achievements
 
 - Coordinator of Engineer diploma in ESIEE Paris for the specialty Energy (3 years teaching program, responsible for 10+ courses, confirmed success with number of students from 20 to 49 per promotion from 2014 to 2020)
 - Teaching Ingénieur (Engineer, eq. L3 to M2) level courses since 2013: Heat transfer (30h), Thermodynamics (14h), Solar thermal engineering (30h), Numerical methods applied to energy (30h), Computational fluid dynamics by ANSYS (30h), Dynamic simulation by TRNSYS (30h)
 - Engineering courses in other universities include: “Energy Audit and Energy Efficiency in Buildings” at IMT Lille Douai (2019); “Water-Energy nexus” at Ecole des Ponts (ENPC, 2020).
+
+
+## Visiting professors 
+- Zhenlong FANG, Wuhan University of Technology, China (2022/23)
+- Hatef MADANI, KTH Royal Institute of Technology, Sweden (2018)
+- Cheng WANG, Changzhou University, China (2019)
 
 
 
