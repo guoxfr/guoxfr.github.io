@@ -81,8 +81,11 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Wise Cities 3, Co-I, resp. for bilateral research task “water-energy nexus”, I-SITE FUTURE, 2019-2022
 - ZeroCO2 TRIGEN (CCHP with net zero CO2 emission), Co-I, I-SITE FUTURE, in collaboration with IFSTTAR Satory, 2019-2020
 - CSC (China Scholarship Council) PhD funding, co-supervisor, candidate Zhuo Ma, 2020-2024, 48 months
-- CSC (China Scholarship Council) PhD funding, supervisor, candidate Geyu Zhong, 2020-2021, 18 months
-- CSC (China Scholarship Council) PhD funding, co-supervisor, candidate Chuanyu Zhang, 2017-2020, 36 months
+- CSC visiting professor, Prof. Zhenlong Fang (Wuhan University of Technology), 2022-2023, 12 months
+- CSC PhD funding, supervisor, candidate Geyu Zhong, 2020-2021, 18 months
+- CSC PhD funding, supervisor, candidate Xiangshu Lei, 2021-2023, 18 months
+- CSC PhD mobility, supervisor, candidate Fan Chen, 2020-2021, 12 months
+- CSC full PhD funding, co-supervisor, candidate Chuanyu Zhang, 2017-2020, 36 months
 - SATT IDF Innov, FLEXER, patent and maturation, PI, 2018
 - PHC Xu Guangqi, Data4EnerBat, French side PI, with Shanghai Jiao Tong University, Ministère de l'Europe et des Affaires étrangères, Campus France, 2018
 - EFFICACITY, funding by participative research indemnity, 50 k€, 2014-2016
