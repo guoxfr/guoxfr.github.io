@@ -20,6 +20,8 @@ Xiaofeng.Guo[at]u-paris.fr\
 To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
 
 > **Latest news**\
+> __2023.05:__\
+> I'm giving an invited talk at the Annual seminar LIEPP, Sciences Po Paris. The title is "Energy efficiency in buildings: physical rules and behavioural impacts". 
 > __2023.03:__\
 > I'm editing a special issue for Biosensors (IF 5.743). The topic is "Acoustic Microfluidic Devices: From Fabrication to Application", [link here](https://www.mdpi.com/journal/biosensors/special_issues/Y37EVF7U1I)\
 > If you have relevant manuscripts and wish to publish in this special issue, please let me know. I've several free APC tokens.
