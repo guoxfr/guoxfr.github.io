@@ -138,7 +138,9 @@ title: Publications
 
 ## Conference abstracts & posters
 
-1. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Asymmetric streaming induced by large amplitude vibrations near a sharp obstacle, RENCONTRE DU NON-LINÉAIRE, 03/2023, Paris
+1. Pengfei Cao, Laurent Royon and Xiaofeng Guo, Road deicing effects using an electrically conductive paint, SFT2023, Congrès Français de Thermique, 31 May - 02 June 2023, Reims, FRANCE
+
+3. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Asymmetric streaming induced by large amplitude vibrations near a sharp obstacle, RENCONTRE DU NON-LINÉAIRE, 03/2023, Paris
 
 3. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, YingWen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, Acoustofluidics 2021, 26-27 August 2021
 
@@ -166,9 +168,11 @@ title: Publications
 
 ## Invited talks, keynotes
 
-1. Echangeur FLEXER & Récupération d’énergie : Caractérisation d’un nouvel échangeur polymère, Les Journées Techniques du GRETh, Aix les Bains, 16-17 novembre 2022  (**invité**)
-1. Transfer enhancement by low-frequency acoustic streaming, School of Mechanical Engineering, Xi'an Jiao Tong University, 28 Oct 2022  (**invited**)
-2. Efficient energy management from building to district: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
+1. Energy efficiency in buildings: physical rules and behavioural impacts, Annual seminar LIEPP, Sciences Po Paris, 2023.05 (**invited**)
+
+2. Echangeur FLEXER & Récupération d’énergie : Caractérisation d’un nouvel échangeur polymère, Les Journées Techniques du GRETh, Aix les Bains, 16-17 novembre 2022  (**invité**)
+3. Transfer enhancement by low-frequency acoustic streaming, School of Mechanical Engineering, Xi'an Jiao Tong University, 28 Oct 2022  (**invited**)
+4. Efficient energy management from building to district: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
 
 1. Interdisciplinary energy research for a low-carbon future: interactions with material, big-data and biomimetic approaches, International Symposium on Green Ship Design and New Energy Technology, Wuhan University of Technology, 10th April 2021 (**keynote**)
 
