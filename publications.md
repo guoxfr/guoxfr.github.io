@@ -168,6 +168,9 @@ title: Publications
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks, keynotes
+1. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
+2. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
+4. Research thematics at LIED and recent topics on process intensification, Xi'an Jiaotong University, 2023.08
 
 1. Energy efficiency in buildings: physical rules and behavioural impacts, Annual seminar LIEPP, Sciences Po Paris, 2023.05 (**invited**)
 
