@@ -17,7 +17,8 @@ Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 
 Contact info:\
 Xiaofeng.Guo[at]u-paris.fr\
-To come to my lab: <https://physique.u-paris.fr/structures/ufr-physique>
+To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
+
 
 > **Latest news**\
 > __2023.05:__\
@@ -98,7 +99,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Referee and editorial services
-- Associate editor, "Research", a CAST & AAAS journal (IF=11, 2022), [link](spj.sciencemag.org/research), 2023-
+- Associate editor, "Research", a CAST & AAAS journal (IF=11, 2022), [link]((https://spj.science.org/journal/research)), 2023-
 - Topic editor for "Biosensors", Special Issue "Acoustic Microfluidic Devices: From Fabrication to Application"
 - Corresponding expert, "Engineering" (Elsevier & CAE), 2022-
 - Young Editor Board member, "Energy Storage and Saving" (Elsevier), since 2022
