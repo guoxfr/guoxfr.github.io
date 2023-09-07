@@ -148,6 +148,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Visiting professors 
+- Paulo DE SOUSA FILHO, University of Campinas (UNICAMP)
 - Zhenlong FANG, Wuhan University of Technology, China (2022/23)
 - Hatef MADANI, KTH Royal Institute of Technology, Sweden (2018)
 - Cheng WANG, Changzhou University, China (2019)
@@ -155,6 +156,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Former students
+- Xiangshu LEI, PhD, 2023
 - Geyu ZHONG, PhD, 2022
 - Mohamed CHERDOUH, intern, 2022
 - Chuanyu ZHANG, PhD (CSC funding), defended 2020/09, (postdoc at Université Gustave Eiffel - IFSTTAR), 2017-2020
