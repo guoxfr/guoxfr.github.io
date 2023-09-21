@@ -8,7 +8,7 @@ title: Prof. Xiaofeng GUO
 <!--Professor-->
 Université de Paris
 \
-IUT de Paris Pajol
+Directeur des études, IUT de Paris Pajol
 \
 Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 
