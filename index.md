@@ -34,6 +34,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 ## Appointments
 Since 2021: full professor, Université de Paris, IUT de Paris Pajol \
 2020-2021: full-time visiting researcher at CNRS (LIED)\
+Since 2023: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences\
 2017- 2021: associate professor, ESIEE Paris, Université Gustave Eiffel (former Paris Est Univ), Course director of Diplôme d'ingénieur in Energie
 \
 2017- present: permanent researcher in Paris Interdisciplinary Energy Research Institute, LIED UMR 8236, CNRS, Université de Paris (former Paris 7)
