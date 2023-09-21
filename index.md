@@ -132,6 +132,8 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Member of committee, ESYCOM, Université Paris Est, 31/05/2018 (GOUMBA Alain Pascal)
 
 
+[comment]: <
+
 ## Research interests | current projects
 - Acoustic Streaming in mini/microfluidics (in collaboration with MSC lab)
 - Thermal energy storage by Phase Change Materials (PCM)
@@ -139,6 +141,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Thermal stratification in hot water tank
 - Dynamic simulation of Heat Pumps in service of Domestic Hot Water (DHW) and Heating supply in urban context
 
+>
 
 
 ## Pedagogical achievements
