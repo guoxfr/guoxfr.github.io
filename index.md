@@ -33,7 +33,11 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 ## Appointments
 - Since 2021: full professor, Université de Paris, IUT de Paris Pajol
+
+- <!--- This is an HTML comment in Markdown 
 - Since 2023: chair professor (20%), Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme)
+-->
+  
 - 2020-21: full-time visiting researcher at CNRS (LIED)
 - Since 2023: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences
 - 2017-21: associate professor, ESIEE Paris, Université Gustave Eiffel (former Paris Est Univ), Course director of Diplôme d'ingénieur in Energie
