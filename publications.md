@@ -73,7 +73,9 @@ title: Publications
 
 ## Conference proceedings
 
-1. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
+1. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Int Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
+
+2. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
 
 1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, Acoustofluidics 2021, 26-27 August 2021
 
@@ -169,8 +171,9 @@ title: Publications
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks, keynotes
-1. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
-2. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
+1. Coating materials with electrical or optical functionalities and their applications in urban context, 2023 Int Conference on Advanced Materials and New Green Manufacturing Technologies, Wuhan University of Science and Technology, 2023.11 (**invited**)
+2. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
+3. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
 4. Research thematics at LIED and recent topics on process intensification, Xi'an Jiaotong University, 2023.08
 
 1. Energy efficiency in buildings: physical rules and behavioural impacts, Annual seminar LIEPP, Sciences Po Paris, 2023.05 (**invited**)
