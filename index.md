@@ -34,7 +34,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 ## Appointments
 - Since 2021: full professor, Université de Paris, IUT de Paris Pajol
 
-- <!--- This is an HTML comment in Markdown 
+<!---COMMENT
 - Since 2023: chair professor (20%), Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme)
 -->
   
