@@ -171,7 +171,7 @@ title: Publications
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks, keynotes
-1. Thermal management of road deicing using an electric resistance coating, 2nd Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
+1. Thermal management of road deicing using an electric resistance coating, 2nd Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27  (**keynote**)
 2. Coating materials with electrical or optical functionalities and their applications in urban context, 2023 Int Conference on Advanced Materials and New Green Manufacturing Technologies, Wuhan University of Science and Technology, 2023.11 (**invited**)
 3. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
 4. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
