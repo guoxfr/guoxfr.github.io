@@ -97,6 +97,11 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - EFFICACITY, building energy audit, 10 k€, 2015
 - ESIEE Innovation technologique, 3 k€, 2013
 
+## Expertises
+- Expert for ISET, Tunisia, ADIUT, (2023-)
+- Evaluation expert for the National Science Centre of Poland (2020)
+- Evaluation expert for EPSRC The Engineering and Physical Sciences Research Council of the UK, (2019, 2020)
+- Evaluation expert for ANR Agence Nationale de Recherche (2017)
 
 ## Referee and editorial services
 - Associate editor, "Research", a CAST & AAAS journal (IF=11, 2022), [link](https://spj.science.org/journal/research), 2023-
@@ -110,9 +115,6 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
 - Coordinator of task group “Energy” in EquipEx SenseCity (PIA2), 2018-2020
 - Session chair, the 6th International Conference on Cryogenics and Refrigeration 2018 (ICCR2018), April 12-14, 2018, Shanghai
-- Evaluation expert for the National Science Centre of Poland (2020)
-- Evaluation expert for EPSRC The Engineering and Physical Sciences Research Council of the UK, (2019, 2020)
-- Evaluation expert for ANR Agence Nationale de Recherche (2017)
 - Review expert for SFT2019, Nantes
 - Member of Société Française de Thermique and Société Française de Génies des Procédés
 - Member of China Society of Thermophysics, China Society of HVAC&R
