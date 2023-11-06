@@ -22,7 +22,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 > **Latest news**\
 > __2023.09:__\
-> I'm excited to be appointed as a chair professor for Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme)
+> I'm excited to be appointed as a chair professor for Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme) \
 > __2023.05:__\
 > I'm giving an invited talk at the Annual seminar LIEPP, Sciences Po Paris. The title is "Energy efficiency in buildings: physical rules and behavioural impacts". \
 > __2023.03:__\
