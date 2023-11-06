@@ -21,6 +21,8 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 > **Latest news**\
+> __2023.09:__\
+> I'm excited to be appointed as a chair professor for Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme)
 > __2023.05:__\
 > I'm giving an invited talk at the Annual seminar LIEPP, Sciences Po Paris. The title is "Energy efficiency in buildings: physical rules and behavioural impacts". \
 > __2023.03:__\
@@ -33,11 +35,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 ## Appointments
 - Since 2021: full professor, Université de Paris, IUT de Paris Pajol
-  
-<!---COMMENT
 - Since 2023: chair professor (20%), Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme)
---> 
-
 - 2020-21: full-time visiting researcher at CNRS (LIED)
 - Since 2023: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences
 - 2017-21: associate professor, ESIEE Paris, Université Gustave Eiffel (former Paris Est Univ), Course director of Diplôme d'ingénieur in Energie
@@ -45,7 +43,9 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 - 2014-17: Researcher (40%), EFFICACITY Institute of Energy Transition for Cities (PIA2)
 - 2013-16: assistant professor, ESIEE Paris, Université Paris Est
 
-
+<!---COMMENT
+- 
+--> 
 
 ## Education
 - HDR (Habilitation to supervise research), Faculté des Sciences, Université de Paris (2021)
