@@ -37,12 +37,12 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 - Since 2021: full professor, Université Paris Cité
 - Since 2023: chair professor (20%), Circle-U (European University Alliance)
 - 2020-21: full-time visiting researcher at CNRS (LIED)
-- Since 2023: guest professor, Wuhan University of Science and Technology
-- Since 2023: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences
+- 2023-2025: guest professor, Wuhan University of Science and Technology
+- 2023-2025: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences
 - 2017-21: associate professor, ESIEE Paris, Université Gustave Eiffel, Course director of Diplôme d'ingénieur in Energie
 - Since 2017: permanent researcher in Paris Interdisciplinary Energy Research Institute, LIED UMR 8236, CNRS, Université de Paris (former Paris 7)
 - 2014-17: Researcher (40%), EFFICACITY Institute of Energy Transition for Cities (PIA2)
-- 2013-16: assistant professor, ESIEE Paris, Université Paris Est
+- 2013-16: assistant professor, ESIEE Paris, CCI Paris Ile-de-France
 
 <!---COMMENT
 - 
