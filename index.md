@@ -3,12 +3,12 @@ layout: page
 title: Prof. Xiaofeng GUO
 ---
 
- <!--#Prof. Xiaofeng Guo, Université de Paris-->
+ <!--#Prof. Xiaofeng Guo, Université Paris Cité-->
 
 <!--Professor-->
-Université de Paris
+Université Paris Cité
 \
-Directeur des études, IUT de Paris Pajol
+Directeur des études & relations internationales, IUT de Paris Pajol
 \
 Paris Interdisciplinary Energy Research Institute, LIED-PIERI UMR 8236 CNRS
 
@@ -22,7 +22,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 > **Latest news**\
 > __2023.09:__\
-> I'm excited to be appointed as a chair professor for Circle-U (European Universities Alliance, co-funded by EU Erasmus+ programme) \
+> I'm excited to be appointed as a chair professor for Circle-U (European University Alliance, co-funded by EU Erasmus+ programme) \
 > __2023.05:__\
 > I'm giving an invited talk at the Annual seminar LIEPP, Sciences Po Paris. The title is "Energy efficiency in buildings: physical rules and behavioural impacts". \
 > __2023.03:__\
@@ -34,11 +34,12 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 ## Appointments
-- Since 2021: full professor, Université de Paris, IUT de Paris Pajol
-- Since 2023: chair professor (20%), Circle-U (European Universities Alliance)
+- Since 2021: full professor, Université Paris Cité
+- Since 2023: chair professor (20%), Circle-U (European University Alliance)
 - 2020-21: full-time visiting researcher at CNRS (LIED)
+- Since 2023: guest professor, Wuhan University of Science and Technology
 - Since 2023: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences
-- 2017-21: associate professor, ESIEE Paris, Université Gustave Eiffel (former Paris Est Univ), Course director of Diplôme d'ingénieur in Energie
+- 2017-21: associate professor, ESIEE Paris, Université Gustave Eiffel, Course director of Diplôme d'ingénieur in Energie
 - Since 2017: permanent researcher in Paris Interdisciplinary Energy Research Institute, LIED UMR 8236, CNRS, Université de Paris (former Paris 7)
 - 2014-17: Researcher (40%), EFFICACITY Institute of Energy Transition for Cities (PIA2)
 - 2013-16: assistant professor, ESIEE Paris, Université Paris Est
@@ -98,7 +99,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - ESIEE Innovation technologique, 3 k€, 2013
 
 ## Expertises
-- Expert for ISET, Tunisia, ADIUT, (2023-)
+- Expert for ISET Jendouba, Ministry of Higher Education and Research, Tunisia, ADIUT, (2023-)
 - Evaluation expert for the National Science Centre of Poland (2020)
 - Evaluation expert for EPSRC The Engineering and Physical Sciences Research Council of the UK, (2019, 2020)
 - Evaluation expert for ANR Agence Nationale de Recherche (2017)
