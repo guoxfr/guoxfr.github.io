@@ -15,7 +15,8 @@ Here we use *active* or *passive* process intensification techniques to enhance 
 When two close drops on a plate are under vibration, they could merge if the frequency is well adjusted. This also depends on the wetting properties, as well as the sizes of the two drops. \
 
 
-[<img src="static/img/vibdropmergecoverfig.png" width="500"/>](image.png)
+![Mechanism of drops under vibration](./publi/vibdropmergecoverfig.png "drop dynamics")
+
 
 
 Below is a video showing how we enhance drop merging by mechanical vibration: \
@@ -24,14 +25,25 @@ Below is a video showing how we enhance drop merging by mechanical vibration: \
 
 At acoustic frequencies, about several kHz, we can generate strong acoustic streaming around a sharp edge: \ 
 
-[<img src="static/img/seasasymstrong.gif" width="500"/>](image.png)
+
+![Strong acoustic streaming around sharp edge](./publi/seasasymstrong.gif "acoustic streaming")
 
 
 
 And this can strongly enhance mass transfer such as in mixing application (sound driven micromixer): \
 
-[<img src="static/img/seasmixing.png" width="500"/>](image.png)
+![Acoustic streaming for mixing enhancement](./publi/seasmixing.png "sound driven micromixer")
 
+
+
+<!---COMMENT
+- 
+
+[<img src="static/img/seasmixing.png" width="500"/>](image.png)
+[<img src="static/img/seasasymstrong.gif" width="500"/>](image.png)
+[<img src="static/img/vibdropmergecoverfig.png" width="500"/>](image.png)
+
+--> 
 
 
 ## Energy system modeling and optimization
