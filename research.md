@@ -25,6 +25,11 @@ At acoustic frequencies, about several kHz, we can generate strong acoustic stre
 And this can strongly enhance mass transfer such as in mixing application: \
 [<img src="./publi/seasmixing.png" width="250"/>](image.png)
 
+
+
+
 ## Energy system modeling and optimization
+to come...
 
 ## Soft heat exchangers
+to come... 
