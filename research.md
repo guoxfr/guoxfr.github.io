@@ -13,9 +13,9 @@ title: Research
 Here we use *active* or *passive* process intensification techniques to enhance heat and mass transfer. For *active* techniques, we associate vibration (mechanical, acoustic or ultrasonic) sources to special flow channels (with sharp edges, bubbles...) to generate strong streaming flow. For *passive* process intensification, we have developped a patented flexible heat exchanger made of polymer. 
 
 When two close drops on a plate are under vibration, they could merge if the frequency is well adjusted. This also depends on the wetting properties, as well as the sizes of the two drops. \
-![Mechanism of drops under vibration](./publi/vibdropmergecoverfig.png "drop dynamics")
 
 
+[<img src="static/img/vibdropmergecoverfig.png" width="500"/>](image.png)
 
 
 Below is a video showing how we enhance drop merging by mechanical vibration: \
@@ -23,11 +23,14 @@ Below is a video showing how we enhance drop merging by mechanical vibration: \
 
 
 At acoustic frequencies, about several kHz, we can generate strong acoustic streaming around a sharp edge: \ 
-![Strong acoustic streaming around sharp edge](./publi/seasasymstrong.gif "acoustic streaming")
+
+[<img src="static/img/seasasymstrong.gif" width="500"/>](image.png)
 
 
-And this can strongly enhance mass transfer such as in mixing application: \
-![Acoustic streaming for mixing enhancement](./publi/seasmixing.png "sound driven micromixer")
+
+And this can strongly enhance mass transfer such as in mixing application (sound driven micromixer): \
+
+[<img src="static/img/seasmixing.png" width="500"/>](image.png)
 
 
 
