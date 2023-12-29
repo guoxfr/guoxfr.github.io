@@ -15,7 +15,7 @@ Here we use *active* or *passive* process intensification techniques to enhance 
 When two close drops on a plate are under vibration, they could merge if the frequency is well adjusted. This also depends on the wetting properties, as well as the sizes of the two drops. \
 
 
-![Mechanism of drops under vibration](./static/img/vibdropmergecoverfig.png "drop dynamics")
+![Mechanism of drops under vibration](/static/img/vibdropmergecoverfig.png "drop dynamics")
 
 
 
@@ -26,7 +26,7 @@ Below is a video showing how we enhance drop merging by mechanical vibration: \
 At acoustic frequencies, about several kHz, we can generate strong acoustic streaming around a sharp edge: \ 
 
 
-![Strong acoustic streaming around sharp edge](./static/img/seasasymstrong.gif "acoustic streaming")
+![Strong acoustic streaming around sharp edge](/static/img/seasasymstrong.gif "acoustic streaming")
 
 
 
