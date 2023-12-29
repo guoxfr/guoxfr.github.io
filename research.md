@@ -28,6 +28,8 @@ At acoustic frequencies, about several kHz, we can generate strong acoustic stre
 
 ![Strong acoustic streaming around sharp edge](/static/img/seasasymstrong.gif "acoustic streaming")
 
+![Strong acoustic streaming around sharp edge](/static/img/seasasymstrong.png "acoustic streaming")
+
 
 
 And this can strongly enhance mass transfer such as in mixing application (sound driven micromixer):
