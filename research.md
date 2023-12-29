@@ -13,7 +13,9 @@ title: Research
 Here we use *active* or *passive* process intensification techniques to enhance heat and mass transfer. For *active* techniques, we associate vibration (mechanical, acoustic or ultrasonic) sources to special flow channels (with sharp edges, bubbles...) to generate strong streaming flow. For *passive* process intensification, we have developped a patented flexible heat exchanger made of polymer. 
 
 When two close drops on a plate are under vibration, they could merge if the frequency is well adjusted. This also depends on the wetting properties, as well as the sizes of the two drops. \
-[<img src="./publi/vibdropmergecoverfig.png" width="500"/>](mechanismdropmerge.png)
+![Mechanism of drops under vibration](./publi/vibdropmergecoverfig.png "drop dynamics")
+
+
 
 
 Below is a video showing how we enhance drop merging by mechanical vibration:\
