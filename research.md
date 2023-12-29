@@ -32,7 +32,7 @@ At acoustic frequencies, about several kHz, we can generate strong acoustic stre
 
 And this can strongly enhance mass transfer such as in mixing application (sound driven micromixer): \
 
-![Acoustic streaming for mixing enhancement](./static/img/seasmixing.png "sound driven micromixer")
+![Acoustic streaming for mixing enhancement](/static/img/seasmixing.png "sound driven micromixer")
 
 
 
