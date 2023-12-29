@@ -20,7 +20,7 @@ Below is a video showing how we enhance drop merging by mechanical vibration:\
 [![drop merging](http://img.youtube.com/vi/OCKlnEh3tEQ/0.jpg)](https://youtu.be/OCKlnEh3tEQ) 
 
 At acoustic frequencies, about several kHz, we can generate strong acoustic streaming around a sharp edge:\ 
-
+[<img src="./publi/seas" width="250"/>](image.png)
 
 ## Energy system modeling and optimization
 
