@@ -21,12 +21,13 @@ When two close drops on a plate are under vibration, they could merge if the fre
 Below is a video showing how we enhance drop merging by mechanical vibration:\
 [![drop merging](http://img.youtube.com/vi/OCKlnEh3tEQ/0.jpg)](https://youtu.be/OCKlnEh3tEQ) 
 
+
 At acoustic frequencies, about several kHz, we can generate strong acoustic streaming around a sharp edge:\ 
 ![Strong acoustic streaming around sharp edge](./publi/seasasymstrong.gif "acoustic streaming")
 
 
 And this can strongly enhance mass transfer such as in mixing application: \
-![Acoustic streaming for mixing enhancement](./publi/seasmixing.png "acoustic streaming")
+![Acoustic streaming for mixing enhancement](./publi/seasmixing.png "sound driven micromixer")
 
 
 
