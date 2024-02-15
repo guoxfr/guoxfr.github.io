@@ -74,9 +74,10 @@ title: Publications
 
 ## Conference proceedings
 
-1. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
+1. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, International Society for Asphalt Pavements conference ISAP2024, Montréal, Canada, 2024.06
+2. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
 
-2. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
+3. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
 
 1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, Acoustofluidics 2021, 26-27 August 2021
 
