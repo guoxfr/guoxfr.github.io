@@ -6,8 +6,9 @@ title: Publications
 ## Journal articles
 
 
-1. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids, 2024, *to appear*
-2. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
+1. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, Engineering, *to appear*
+2. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids, 2024, *to appear*
+3. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
 
 1. Xiangshu Lei, Yingwen Liu, Peng Yang, Laurent Royon, and Xiaofeng Guo, Dynamics of droplet coalescence on a vibrating vertical surface, Physics of Fluids, 2023, https://doi.org/10.1063/5.0157591  &nbsp; &nbsp; [*PDF*](./publi/Lei2023POF.pdf)
 2. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E 107, 2023, 025102, https://doi.org/10.1103/PhysRevE.107.025102 &nbsp; &nbsp; [*PDF*](./publi/Zhong2023PRE.pdf)
