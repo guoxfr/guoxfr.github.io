@@ -7,7 +7,7 @@ title: Publications
 
 
 1. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, Engineering, *to appear*
-2. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids 36, 035114 (2024), https://doi.org/10.1063/5.0197532 
+2. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids 36, 035114 (2024), https://doi.org/10.1063/5.0197532  &nbsp; &nbsp; [*PDF*](./publi/POF24-AR-VORT2023-00467.pdf) 
 3. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
 
 1. Xiangshu Lei, Yingwen Liu, Peng Yang, Laurent Royon, and Xiaofeng Guo, Dynamics of droplet coalescence on a vibrating vertical surface, Physics of Fluids, 2023, https://doi.org/10.1063/5.0157591  &nbsp; &nbsp; [*PDF*](./publi/Lei2023POF.pdf)
