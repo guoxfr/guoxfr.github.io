@@ -69,7 +69,12 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 - Second prize award, TMREES16 Int’l Conf. Fall Meeting, “Technologies and Materials for Renewable Energy, Environment and Sustainability”, November 16-18, 2016, Paris.
 - Instructor of ESIEE team Mobiliteam, the top prize (10 k€) winner of a world competition Decarbonathon, initiated by World Young Leaders and organised by ENGIE/NPL, Paris, 2016.
 - Best paper award, HEFAT2012, the 9th Int. Conf. on Heat Transfer, Fluid Mechanics and Thermodynamics, Session “Heat and Mass Transfer 6”,  16-18 July 2012, MALTA.
-- Bursary from Tyco International (Johnsons controls), Shanghai Jiao Tong University, 2009
+- Team award of innovation, Doctorials, Autrans, France, 2012
+- Bursary from Tyco International Fellowship (Johnsons controls), Shanghai Jiao Tong University, 2009
+- Bursary for master programme, Shanghai Jiao Tong University, 2007-2010
+- Hong Kong Providence Foundation bursary, 2009
+- Top Class Scholarship (1 out of 1000), Wuhan University of Technology, 2007
+- National Scholarship from the Ministry of Education, China, 2nd class, 2006
 
 
 ## Grants
