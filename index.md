@@ -113,6 +113,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Associate editor, "Research", a CAST & AAAS journal (IF=11, 2022), [link](https://spj.science.org/journal/research), 2023-
 - Topic editor for "Biosensors", Special Issue "Acoustic Microfluidic Devices: From Fabrication to Application"
 - Corresponding expert, "Engineering" (Elsevier & CAE), 2022-
+- Co-organiser, Educational resources and climate change, 17th International IARTEM conference, 28-31 May 2024 Paris 
 - Young Editor Board member, "Energy Storage and Saving" (Elsevier), since 2022
 - Topic editor for "Frontiers in Built Environment", 2022
 - Review editor for "Frontiers in Energy Efficiency", since 2022
