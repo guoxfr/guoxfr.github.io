@@ -21,6 +21,8 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 > **Latest news**\
+> __2024.05:__\
+> I'm co-organizing a round table on Educational resources and climate change the 30th of May, 2024, at Université Paris Cité (rue Saints Pères, 75006) during the upcoming IARTEM conference [link here](https://iartem-17.sciencesconf.org/resource/page/id/10)\
 > __2023.09:__\
 > I'm excited to be appointed as a chair professor for Circle-U (European University Alliance, co-funded by EU Erasmus+ programme) \
 > __2023.05:__\
