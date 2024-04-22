@@ -112,7 +112,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Evaluation expert for ANR Agence Nationale de Recherche (2017)
 
 ## Referee and editorial services
-- Co-organizer, round table on Educational resources and climate change, [IARTEM](https://iartem-17.sciencesconf.org/resource/page/id/10) conference, 27-31st of May, 2024, Paris 
+- Co-organizer and facilitator of a round table on Educational resources and climate change, [IARTEM](https://iartem-17.sciencesconf.org/resource/page/id/10) conference, 27-31st of May, 2024, Paris 
 - Associate editor, "Research", a CAST & AAAS journal (IF=11, 2022), [link](https://spj.science.org/journal/research), 2023-
 - Topic editor for "Biosensors", Special Issue "Acoustic Microfluidic Devices: From Fabrication to Application"
 - Corresponding expert, "Engineering" (Elsevier & CAE), 2022-
