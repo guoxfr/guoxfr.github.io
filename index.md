@@ -121,6 +121,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Topic editor for "Frontiers in Built Environment", 2022
 - Review editor for "Frontiers in Energy Efficiency", since 2022
 - Scientific advisory board, HEFAT conferences (since 2021)
+- Perpetual member of American Association for the Advancement of Science (AAAS) since 2024
 - Session chair, ATE-HEFAT 2021 conference
 - Scientific committee member, FUTURE Days 2020, Université Gustave Eiffel
 - Coordinator of task group “Energy” in EquipEx SenseCity (PIA2), 2018-2020
