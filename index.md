@@ -117,6 +117,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 - Evaluation expert for ANR Agence Nationale de Recherche (2017)
 
 ## Referee and editorial services
+- Conference chair, ICENSS2025, 4th International Conference on Energy Storage and Saving (ICENSS2025), 26-28 May 2025, Paris
 - Editorial Board member, "Energy Storage and Saving" (Elsevier), 2022-
 - Co-organizer and facilitator of a round table on Educational resources and climate change, [IARTEM](https://iartem-17.sciencesconf.org/resource/page/id/10) conference, 27-31st of May, 2024, Paris 
 - Associate editor, "Research", a CAST & AAAS journal (IF=11, 2022), [link](https://spj.science.org/journal/research), 2023-
