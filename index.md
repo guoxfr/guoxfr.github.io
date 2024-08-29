@@ -22,7 +22,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 > **Latest news**\
 > __2024.08:__\
-> I am organizing the next ICENSS2025, 4th International Conference on Energy Storage and Saving during 26-28 May 2025. The conference will be hosted by Université Paris Cité (rue Saint Germain, 75006) [link here](https://icenss2025.sciencesconf.org/). More details are coming during the next a few months. Please save the dates!! \
+> I am organizing the 4th International Conference on Energy Storage and Saving (ICENSS2025) on 26-28 May 2025. The conference will be hosted by Université Paris Cité (85 Bd Saint Germain, 75006, Paris) [website](https://icenss2025.sciencesconf.org/). More details are coming during the next a few months. Please save the dates!! \
 > __2024.05:__\
 > I'm co-organizing a round table on Educational resources and climate change the 30th of May, 2024, at Université Paris Cité (rue Saints Pères, 75006) during the upcoming IARTEM conference [link here](https://iartem-17.sciencesconf.org/resource/page/id/10)\
 > __2023.09:__\
