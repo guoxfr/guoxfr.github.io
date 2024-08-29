@@ -6,10 +6,11 @@ title: Publications
 ## Journal articles
 
 
-1. Cheng Wang, Yue Yu, Junnan Yang, Shixuan Xu, Ye Zhu, Qi Song, Xiaofeng Guo, Effects of Thermo-Chromic materials (TCMs) on the performance of asphalt pavement with phase change materials (PCMs), Thermal Science and Engineering Progress, 102715 (2024), https://doi.org/10.1016/j.tsep.2024.102715   &nbsp; &nbsp; [*PDF*](./publi/WangC2024TSEP.pdf) 
-2. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, Engineering, https://doi.org/10.1016/j.eng.2024.03.020 
-3. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids 36, 035114 (2024), https://doi.org/10.1063/5.0197532  &nbsp; &nbsp; [*PDF*](./publi/POF24-AR-VORT2023-00467.pdf) 
-4. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
+1. Xiuneng Li, Xide Cheng, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Chao Ma, Zhenlong Fang, A comparison of Helmholtz oscillators with differently shaped petal nozzles, Physics of Fluids 36 (8), 2024, https://doi.org/10.1063/5.0222498
+2. Cheng Wang, Yue Yu, Junnan Yang, Shixuan Xu, Ye Zhu, Qi Song, Xiaofeng Guo, Effects of Thermo-Chromic materials (TCMs) on the performance of asphalt pavement with phase change materials (PCMs), Thermal Science and Engineering Progress, 102715 (2024), https://doi.org/10.1016/j.tsep.2024.102715   &nbsp; &nbsp; [*PDF*](./publi/WangC2024TSEP.pdf) 
+3. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, Engineering, https://doi.org/10.1016/j.eng.2024.03.020 
+4. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids 36, 035114 (2024), https://doi.org/10.1063/5.0197532  &nbsp; &nbsp; [*PDF*](./publi/POF24-AR-VORT2023-00467.pdf) 
+5. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
 1. Xiangshu Lei, Yingwen Liu, Peng Yang, Laurent Royon, and Xiaofeng Guo, Dynamics of droplet coalescence on a vibrating vertical surface, Physics of Fluids, 2023, https://doi.org/10.1063/5.0157591  &nbsp; &nbsp; [*PDF*](./publi/Lei2023POF.pdf)
 2. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E 107, 2023, 025102, https://doi.org/10.1103/PhysRevE.107.025102 &nbsp; &nbsp; [*PDF*](./publi/Zhong2023PRE.pdf)
 
