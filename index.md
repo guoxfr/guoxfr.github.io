@@ -21,6 +21,8 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 > **Latest news**\
+> __2024.08:__\
+> I am organizing the next ICENSS2025, 4th International Conference on Energy Storage and Saving during 26-28 May 2025. The conference will be hosted by Université Paris Cité (rue Saint Germain, 75006) [link here](https://icenss2025.sciencesconf.org/). More details are coming during the next a few months. Please save the dates!! \
 > __2024.05:__\
 > I'm co-organizing a round table on Educational resources and climate change the 30th of May, 2024, at Université Paris Cité (rue Saints Pères, 75006) during the upcoming IARTEM conference [link here](https://iartem-17.sciencesconf.org/resource/page/id/10)\
 > __2023.09:__\
@@ -60,6 +62,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 ## Graduate students supervisions
 - 3 PhD defended (2018, 2020, 2022)
+- 1 full PhD supervision, 2024-2027
 - 2 PhD supervisions at 50%, for periods of 2020-2024 and 2021-2024
 - In average 2 Master interns per year, 6 months each
 
@@ -81,6 +84,8 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 ## Grants
 
+- Thermal and Indoor Environmental Effects on Student Cognition and Learning Outcomes: A Comparative Study between Tropical and Temperate Climates, Co-PI, joint funding between Université Paris Cité – National University of Singapore, 37,500SGD + 25,000€, 2024-2026
+- VibStreamEnhance, PI, IDEX Emergence funding, Université Paris Cité, 39605 €, 2024-2026 
 - PajolConnecté - Non-intruisive multiphysics monitoring of the Pajol building on energy and comfort, PI, IdEx Université Paris Cité, 53.3 k€, 2022-2024
 - ICCAR - Interfaces Conductrices pour le Chauffage et l’Alimentation des Routes, Co-I, financement
 ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
@@ -165,6 +170,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Visiting professors 
+- Xueyong WEI, Xi'an Jiaotong University (2025)
 - Paulo DE SOUSA FILHO, University of Campinas (UNICAMP)
 - Zhenlong FANG, Wuhan University of Technology, China (2022/23)
 - Hatef MADANI, KTH Royal Institute of Technology, Sweden (2018)
