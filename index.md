@@ -21,6 +21,10 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 > **Latest news**\
+> __2024.12:__\
+> Submission is open to attent the 4th International Conference on Energy Storage and Saving (ICENSS2025) on 26-28 May 2025. https://icenss2025.sciencesconf.org/.  \
+> __2024.11.26:__\
+>  Welcome to participate to a Cine-debate over the film FLOW, Rendez-vous on 26 Nov evening at the University (45 rue des Saintes Pères, 75006, Paris)\
 > __2024.08:__\
 > I am organizing the 4th International Conference on Energy Storage and Saving (ICENSS2025) on 26-28 May 2025. The conference will be hosted by Université Paris Cité (85 Bd Saint Germain, 75006, Paris) [website](https://icenss2025.sciencesconf.org/). More details are coming during the next a few months. Please save the dates!! \
 > __2024.05:__\
@@ -142,6 +146,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## PhD Committee
+- PhD thesis examiner, IIT Jodhpur (INDIA), 2024
 - PhD thesis examiner, IIT Indore (INDIA), 2024
 - Rapporteur de thèse, Université de Lille, 02/06/2023 (AHOURE Louis)
 - PhD defence examiner (président du jury), Université Gustave Eiffel, 20/11/2022 (BOURDEAU Mathieu)
