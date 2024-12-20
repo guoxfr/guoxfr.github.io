@@ -20,7 +20,7 @@ Xiaofeng.Guo[at]u-paris.fr\
 To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
-> **Latest news**\
+> **Latest news**
 > > __2024.12.13:__\
 > My lab and the GIEC CAS (Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences) has launched an Alliance in Low-carbon energy system research (Alliance SEEDs). I'm honored to be appointed as the French side coordinator. Welcome to join our Alliance. [Report Sciencenet.cn](https://news.sciencenet.cn/htmlnews/2024/12/536100.shtm).  \
 > __2024.12:__\
