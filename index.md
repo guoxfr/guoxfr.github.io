@@ -21,6 +21,8 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 > **Latest news**\
+> > __2024.12.13:__\
+> My lab and the GIEC CAS (Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences) has launched an Alliance in Low-carbon energy system research (Alliance SEEDs). I'm honored to be appointed as the French side coordinator. Welcome to join our Alliance. [Report Sciencenet.cn](https://news.sciencenet.cn/htmlnews/2024/12/536100.shtm).  \
 > __2024.12:__\
 > Submission is open to attent the 4th International Conference on Energy Storage and Saving (ICENSS2025) on 26-28 May 2025. https://icenss2025.sciencesconf.org/.  \
 > __2024.11.26:__\
