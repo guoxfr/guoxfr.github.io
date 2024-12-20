@@ -91,6 +91,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 ## Grants
 
+- CleanPV2Water, Joint call Université Paris Cité and Université Mohammed VI Polytechnique, Co-I, 2024-2026
 - Thermal and Indoor Environmental Effects on Student Cognition and Learning Outcomes: A Comparative Study between Tropical and Temperate Climates, Co-PI, joint funding between Université Paris Cité – National University of Singapore, 37,500SGD + 25,000€, 2024-2026
 - VibStreamEnhance, PI, IDEX Emergence funding, Université Paris Cité, 39605 €, 2024-2026 
 - PajolConnecté - Non-intruisive multiphysics monitoring of the Pajol building on energy and comfort, PI, IdEx Université Paris Cité, 53.3 k€, 2022-2024
