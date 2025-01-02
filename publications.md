@@ -6,11 +6,12 @@ title: Publications
 ## Journal articles
 
 
-1. Xiuneng Li, Xide Cheng, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Chao Ma, Zhenlong Fang, A comparison of Helmholtz oscillators with differently shaped petal nozzles, Physics of Fluids 36 (8), 2024, https://doi.org/10.1063/5.0222498
-2. Cheng Wang, Yue Yu, Junnan Yang, Shixuan Xu, Ye Zhu, Qi Song, Xiaofeng Guo, Effects of Thermo-Chromic materials (TCMs) on the performance of asphalt pavement with phase change materials (PCMs), Thermal Science and Engineering Progress, 102715 (2024), https://doi.org/10.1016/j.tsep.2024.102715   &nbsp; &nbsp; [*PDF*](./publi/WangC2024TSEP.pdf) 
-3. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, Engineering, https://doi.org/10.1016/j.eng.2024.03.020 
-4. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids 36, 035114 (2024), https://doi.org/10.1063/5.0197532  &nbsp; &nbsp; [*PDF*](./publi/POF24-AR-VORT2023-00467.pdf) 
-5. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
+1. Wenjiang Hou, Jin Ou, Yan Chen, Xiaofeng Guo, Zhenlong Fang, Shidong Fan, Research on Helmholtz self-excited oscillating jets enhanced heat transfer in horizontal tubes, Physics of Fluids 36 (12), 125155, 2024, https://doi.org/10.1063/5.0240070
+2. Xiuneng Li, Xide Cheng, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Chao Ma, Zhenlong Fang, A comparison of Helmholtz oscillators with differently shaped petal nozzles, Physics of Fluids 36 (8), 085159, 2024, https://doi.org/10.1063/5.0222498
+3. Cheng Wang, Yue Yu, Junnan Yang, Shixuan Xu, Ye Zhu, Qi Song, Xiaofeng Guo, Effects of Thermo-Chromic materials (TCMs) on the performance of asphalt pavement with phase change materials (PCMs), Thermal Science and Engineering Progress, 102715 (2024), https://doi.org/10.1016/j.tsep.2024.102715   &nbsp; &nbsp; [*PDF*](./publi/WangC2024TSEP.pdf) 
+4. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, Engineering, https://doi.org/10.1016/j.eng.2024.03.020 
+5. Zhenlong Fang, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Yong Chen, Coherent structure analysis of cavitation waterjets using dynamic mode decomposition, Physics of Fluids 36, 035114 (2024), https://doi.org/10.1063/5.0197532  &nbsp; &nbsp; [*PDF*](./publi/POF24-AR-VORT2023-00467.pdf) 
+6. Zhenlong Fang, Wenjiang Hou, Zhifan Xu, Xiaofeng Guo, Zenglei Zhang, Ruichao Shi, Yunan Yao, and Yong Chen, Large Eddy Simulation of Cavitation Jets from an Organ-Pipe Nozzle: The Influence of Cavitation on the Vortex Coherent Structure, Processes 11, 2023, no. 8: 2460. https://doi.org/10.3390/pr11082460
 1. Xiangshu Lei, Yingwen Liu, Peng Yang, Laurent Royon, and Xiaofeng Guo, Dynamics of droplet coalescence on a vibrating vertical surface, Physics of Fluids, 2023, https://doi.org/10.1063/5.0157591  &nbsp; &nbsp; [*PDF*](./publi/Lei2023POF.pdf)
 2. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Vibration-induced streaming ﬂow near a sharp edge: ﬂow structure and instabilities in a large span of forcing amplitude, Physical Review E 107, 2023, 025102, https://doi.org/10.1103/PhysRevE.107.025102 &nbsp; &nbsp; [*PDF*](./publi/Zhong2023PRE.pdf)
 
@@ -76,7 +77,7 @@ title: Publications
 
 ## Conference proceedings
 
-1. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, International Society for Asphalt Pavements conference ISAP2024, Montréal, Canada, 2024.06
+1. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
 2. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
 
 3. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
