@@ -8,7 +8,7 @@ title: Publications
 
 
 1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Streaming induced by periodic forcing around wedges: A quantitative study of the different flow regimes, Physical Review Fluids, *to appear*
-2. Concurrent estimation of lithium-ion battery charge and energy states by fractional-order model and multi-innovation adaptive cubature Kalman filter, Energy, 135498, 2025, https://doi.org/10.1016/j.energy.2025.135498
+2. Chao Wang, Xin Wang, Mingjian Yang, Jiale Li, Feng Qian, Zunhua Zhang, Mengni Zhou, Xiaofeng Guo, Kai Wang, Concurrent estimation of lithium-ion battery charge and energy states by fractional-order model and multi-innovation adaptive cubature Kalman filter, Energy, 135498, 2025, https://doi.org/10.1016/j.energy.2025.135498
 3. Feng Qian, Yijie Qu, Jie Wang, Xiong Bao, Junwen Gu, Chengji Deng, Mengni Zhou, Xiaofeng Guo, Chao Wang, Mixed-potential hydrogen sensor based on YSZ and CeO2-TiO2 electrodes, Sensors and Actuators: B. Chemical, 2025. https://doi.org/10.1016/j.snb.2025.137561
 4. Xiaowei Xu, Zhengxin Shu, Feng Qian, Rui Cui, Xiong Bao, Jie Wang, Chao Wang, Kai Wang, Xiaofeng Guo, Closed-chamber oxygen sensor for fuel inerting based on electrochemical oxygen pump, Journal of Solid State Electrochemistry, 2025. https://doi.org/10.1007/s10008-025-06234-z
 5. Bowen Hou, Wenjiang Hou, Qiqiang Gao, Yi Wang, Xiaofeng Guo, Zhenlong Fang, The kinetic mechanism of vortex-cavitation interaction in dual-chamber self-excited oscillation waterjets, Physics of Fluids 37, 025187, 2025, https://doi.org/10.1063/5.0252173
