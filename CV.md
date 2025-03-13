@@ -8,4 +8,4 @@ title: CV
 *updated 2021.09*
 
 ## Long CV 
-*upcoming*
+*please reach out by email*
