@@ -191,7 +191,7 @@ title: Publications
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks, keynotes
-2. Climate Change Impacts: Urban Heat Islands, Empowering Climate Action - Policy, Communication and Agency: Islands on the Frontline, SUMMER SCHOOL FOR BACHELOR STUDENTS, 21 - 25 July 2025, Humboldt-Universität zu Berlin (**invited lecture**)
+1. Climate Change Impacts: Urban Heat Islands, Empowering Climate Action - Policy, Communication and Agency: Islands on the Frontline, SUMMER SCHOOL FOR BACHELOR STUDENTS, 21 - 25 July 2025, Humboldt-Universität zu Berlin (**invited lecture**)
 3. Suivi et analyse de la qualité de l'air intérieur dans le bâtiment Pajol, Colloque Atterrir, Buffon, 04.2025
 4. Heat and mass transfer enhancement by harvesting vibration/acoustic energy, ICENSS2024, Tsingtao, 2024.8.30-9.1 (**plenary**)
 5. Thermal management of road deicing using an electric resistance coating, 2nd Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27  (**keynote**)
