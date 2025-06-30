@@ -44,6 +44,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 ## Appointments
+- Since 2021: full professor (1st class), Université Paris Cité
 - Since 2021: full professor, Université Paris Cité
 - Since 2023: chair professor (20%), Circle-U (European University Alliance)
 - 2020-21: full-time visiting researcher at CNRS (LIED)
@@ -180,6 +181,9 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Visiting professors 
+- Gustav Graeber, Humboldt-Universität zu Berlin, Germany (2026)
+- Aloys Osano, Maasai Mara University, Kenya (2026)
+- Feng Qian, Wuhan University of Sciences and Technology, China (2025)
 - Xueyong WEI, Xi'an Jiaotong University (2025)
 - Paulo DE SOUSA FILHO, University of Campinas (UNICAMP)
 - Zhenlong FANG, Wuhan University of Technology, China (2022/23)
