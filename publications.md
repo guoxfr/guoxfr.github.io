@@ -93,10 +93,11 @@ title: Publications
 
 ## Conference proceedings
 
-1. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
-2. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
+1. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Heat transfer convection enhancement by sharp edge acoustic streaming, ICENSS2025, 26-28 May 2025, Paris, France
+2. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
+3. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
 
-3. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
+4. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
 
 1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, Acoustofluidics 2021, 26-27 August 2021
 
@@ -163,9 +164,13 @@ title: Publications
 
 ## Conference abstracts & posters
 
-1. Pengfei Cao, Laurent Royon and Xiaofeng Guo, Road deicing effects using an electrically conductive paint, SFT2023, Congrès Français de Thermique, 31 May - 02 June 2023, Reims, FRANCE
 
-3. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Asymmetric streaming induced by large amplitude vibrations near a sharp obstacle, RENCONTRE DU NON-LINÉAIRE, 03/2023, Paris
+  
+2. Pengfei Cao, Thomas Attia, Simon Pouget, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Performance Characterization of a New Conductive Interface for Deicing Road Surfaces Exposed to Radiative Cooling, ICENSS2025, 26-28 May 2025, Paris, France
+
+3. Pengfei Cao, Laurent Royon and Xiaofeng Guo, Road deicing effects using an electrically conductive paint, SFT2023, Congrès Français de Thermique, 31 May - 02 June 2023, Reims, FRANCE
+
+4. Geyu Zhong, Yingwen Liu, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Asymmetric streaming induced by large amplitude vibrations near a sharp obstacle, RENCONTRE DU NON-LINÉAIRE, 03/2023, Paris
 
 3. Geyu Zhong, Chuanyu Zhang, Philippe Brunet, Laurent Royon, YingWen Liu, Xiaofeng Guo, Effect of Vibration Velocity on Low-Frequency Sharp-Edge Acoustic Streaming Pattern, Acoustofluidics 2021, 26-27 August 2021
 
