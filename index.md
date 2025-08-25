@@ -193,6 +193,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 
 ## Former students
+- Yuyao ZHOU, Ecole Polytechnique & KTH, 2025
 - Xiangshu LEI, PhD, 2023
 - Geyu ZHONG, PhD, 2022
 - Mohamed CHERDOUH, intern, 2022
