@@ -45,7 +45,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 ## Appointments
 - 2025: full professor (1st class), Université Paris Cité
-- 2021: full professor, Université Paris Cité
+- 2021: full professor (2nd class), Université Paris Cité
 - 2023: chair professor (20%), Circle U. (European University Alliance)
 - 2020-21: full-time visiting researcher at CNRS (LIED)
 - 2023-2025: guest professor, Wuhan University of Science and Technology
@@ -69,7 +69,7 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 ## Graduate students supervisions
-- 3 PhD defended (2018, 2020, 2022)
+- 4 PhD defended (2018, 2020, 2022, 2025)
 - 1 full PhD supervision, 2024-2027
 - 2 PhD supervisions at 50%, for periods of 2020-2024 and 2021-2024
 - In average 2 Master interns per year, 6 months each
