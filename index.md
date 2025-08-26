@@ -44,9 +44,9 @@ To come to my lab: 10 Rue Alice Domon et Léonie Duquet, 75013, Paris
 
 
 ## Appointments
-- Since 2021: full professor (1st class), Université Paris Cité
-- Since 2021: full professor, Université Paris Cité
-- Since 2023: chair professor (20%), Circle-U (European University Alliance)
+- 2025: full professor (1st class), Université Paris Cité
+- 2021: full professor, Université Paris Cité
+- 2023: chair professor (20%), Circle U. (European University Alliance)
 - 2020-21: full-time visiting researcher at CNRS (LIED)
 - 2023-2025: guest professor, Wuhan University of Science and Technology
 - 2023-2025: guest researcher, Guangzhou Institute of Energy Conversion, Chinese Acadamy of Sciences
