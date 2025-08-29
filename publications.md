@@ -94,15 +94,15 @@ title: Publications
 
 ## Conference proceedings
 
-1. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Acoustic streaming in a channel with sharp edges for particle manipulation, ICAMechS2025, Xi'an, Sept. 19-22, 2025
-2. CN Fapi, Y Boufkhad, S Reisberg, L Royon, X Guo, Intégration des énergies renouvelables au bâtiment de l'IUT de Paris Pajol: Vers une autonomie énergétique durable, 
+1. T. ATTIA, S. POUGET, D. LE BLANC, X. GUO, P. CAO & M. OYHARCABAL, INNOVATIVE ANTI-ICE AND ANTI-SNOW PAVEMENT SYSTEM USING ELECTROCONDUCTIVE PAINT, 17th World Congress on Road Winter Service, Resilience and Decarbonisation (PIARC - World Road Association), Chambéry (France), 10–13 March, 2026.
+2. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Acoustic streaming in a channel with sharp edges for particle manipulation, ICAMechS2025, Xi'an, Sept. 19-22, 2025
+3. CN Fapi, Y Boufkhad, S Reisberg, L Royon, X Guo, Intégration des énergies renouvelables au bâtiment de l'IUT de Paris Pajol: Vers une autonomie énergétique durable, 
 CNRIUT 2025 Bayonne-Pays Basque, 2025
+4. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Heat transfer convection enhancement by sharp edge acoustic streaming, ICENSS2025, 26-28 May 2025, Paris, France
+5. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
+6. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
 
-3. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Heat transfer convection enhancement by sharp edge acoustic streaming, ICENSS2025, 26-28 May 2025, Paris, France
-4. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
-5. Pengfei Cao, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27
-
-6. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
+7. Yacine Boufkhad, Steeve Reisberg, Laurent Royon and Xiaofeng Guo, Des mesures dans le bâtiment de l’IUT : un exemple de SAé pour la recherche, CNRIUT’2023 (Congrès National de la Recherche des IUT), Saint-Pierre, Ile de la Réunion, 7-9 Juin, 2023  [*PDF*](./publi/CRIUT2023PajolConnecte.pdf)
 
 1. Chuanyu Zhang, Geyu Zhong, Philippe Brunet, Laurent Royon, Xiaofeng Guo, Rapid Micromixing Driven by Sharp-Edge Acoustic Streaming in a Microchannel, Acoustofluidics 2021, 26-27 August 2021
 
@@ -171,7 +171,7 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 
 
   
-2. Pengfei Cao, Thomas Attia, Simon Pouget, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Performance Characterization of a New Conductive Interface for Deicing Road Surfaces Exposed to Radiative Cooling, ICENSS2025, 26-28 May 2025, Paris, France
+1. Pengfei Cao, Thomas Attia, Simon Pouget, Frédéric Filaine, Laurent Royon and Xiaofeng Guo, Performance Characterization of a New Conductive Interface for Deicing Road Surfaces Exposed to Radiative Cooling, ICENSS2025, 26-28 May 2025, Paris, France
 
 3. Pengfei Cao, Laurent Royon and Xiaofeng Guo, Road deicing effects using an electrically conductive paint, SFT2023, Congrès Français de Thermique, 31 May - 02 June 2023, Reims, FRANCE
 
@@ -202,7 +202,7 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks, keynotes
-1. Sustainable buildings & districts: a glance at the French RE2020 regulation, Workshop on LCSA Knowledge Exchange between Industry and Academia, EU COST Action CA23157, Paris, 05/09/2025
+1. Sustainable buildings & districts: a glance at the French RE2020 regulation, CA23157 Workshop on LCSA Knowledge Exchange between Industry and Academia, EU COST Action, Paris, 05/09/2025
 2. Heat and Mass Transfer Enhancement by Acoustic Streaming, Technical Institute of Physics and Chemistry CAS, Beijing, 22/08/2025
 3. Climate Change Impacts: Urban Heat Islands, Empowering Climate Action - Policy, Communication and Agency: Islands on the Frontline, SUMMER SCHOOL FOR BACHELOR STUDENTS, 21 - 25 July 2025, Humboldt-Universität zu Berlin (**invited lecture**)
 4. Suivi et analyse de la qualité de l'air intérieur dans le bâtiment Pajol, Colloque Atterrir, Buffon, 04.2025
