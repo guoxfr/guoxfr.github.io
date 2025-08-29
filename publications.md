@@ -202,15 +202,16 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 3. Xiaofeng Guo Numerical Analysis and Similarity Experiment on Temperature rising of Underground Power Transmission Tunnel, Thesis for Master degree in engineering, Shanghai Jiao Tong University, 2010, 155p.
 
 ## Invited talks, keynotes
-1. Heat and Mass Transfer Enhancement by Acoustic Streaming, Technical Institute of Physics and Chemistry CAS, Beijing, 22/08/2025
-2. Climate Change Impacts: Urban Heat Islands, Empowering Climate Action - Policy, Communication and Agency: Islands on the Frontline, SUMMER SCHOOL FOR BACHELOR STUDENTS, 21 - 25 July 2025, Humboldt-Universität zu Berlin (**invited lecture**)
-3. Suivi et analyse de la qualité de l'air intérieur dans le bâtiment Pajol, Colloque Atterrir, Buffon, 04.2025
-4. Heat and mass transfer enhancement by harvesting vibration/acoustic energy, ICENSS2024, Tsingtao, 2024.8.30-9.1 (**plenary**)
-5. Thermal management of road deicing using an electric resistance coating, 2nd Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27  (**keynote**)
-6. Coating materials with electrical or optical functionalities and their applications in urban context, 2023 Int Conference on Advanced Materials and New Green Manufacturing Technologies, Wuhan University of Science and Technology, 2023.11 (**invited**)
-7. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
-8. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
-9. Research thematics at LIED and recent topics on process intensification, Xi'an Jiaotong University, 2023.08
+1. Sustainable buildings & districts: a glance at the French RE2020 regulation, Workshop on LCSA Knowledge Exchange between Industry and Academia, EU COST Action CA23157, Paris, 05/09/2025
+2. Heat and Mass Transfer Enhancement by Acoustic Streaming, Technical Institute of Physics and Chemistry CAS, Beijing, 22/08/2025
+3. Climate Change Impacts: Urban Heat Islands, Empowering Climate Action - Policy, Communication and Agency: Islands on the Frontline, SUMMER SCHOOL FOR BACHELOR STUDENTS, 21 - 25 July 2025, Humboldt-Universität zu Berlin (**invited lecture**)
+4. Suivi et analyse de la qualité de l'air intérieur dans le bâtiment Pajol, Colloque Atterrir, Buffon, 04.2025
+5. Heat and mass transfer enhancement by harvesting vibration/acoustic energy, ICENSS2024, Tsingtao, 2024.8.30-9.1 (**plenary**)
+6. Thermal management of road deicing using an electric resistance coating, 2nd Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27  (**keynote**)
+7. Coating materials with electrical or optical functionalities and their applications in urban context, 2023 Int Conference on Advanced Materials and New Green Manufacturing Technologies, Wuhan University of Science and Technology, 2023.11 (**invited**)
+8. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
+9. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
+10. Research thematics at LIED and recent topics on process intensification, Xi'an Jiaotong University, 2023.08
 
 1. Energy efficiency in buildings: physical rules and behavioural impacts, Annual seminar LIEPP, Sciences Po Paris, 2023.05 (**invited**)
 
