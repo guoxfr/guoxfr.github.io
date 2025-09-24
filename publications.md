@@ -95,7 +95,7 @@ title: Publications
 ## Conference proceedings
 
 1. T. ATTIA, S. POUGET, D. LE BLANC, X. GUO, P. CAO & M. OYHARCABAL, INNOVATIVE ANTI-ICE AND ANTI-SNOW PAVEMENT SYSTEM USING ELECTROCONDUCTIVE PAINT, 17th World Congress on Road Winter Service, Resilience and Decarbonisation (PIARC - World Road Association), Chambéry (France), 10–13 March, 2026.
-2. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Acoustic streaming in a channel with sharp edges for particle manipulation, ICAMechS2025, Xi'an, Sept. 19-22, 2025
+2. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Acoustic streaming in a channel with sharp edges for particle manipulation, ICAMechS2025, Xi'an, Sept. 19-22, 2025 (**Best student paper award**)
 3. CN Fapi, Y Boufkhad, S Reisberg, L Royon, X Guo, Intégration des énergies renouvelables au bâtiment de l'IUT de Paris Pajol: Vers une autonomie énergétique durable, 
 CNRIUT 2025 Bayonne-Pays Basque, 2025
 4. Zhuo Ma, Xiaofeng Guo, Laurent Royon and Philippe Brunet, Heat transfer convection enhancement by sharp edge acoustic streaming, ICENSS2025, 26-28 May 2025, Paris, France
