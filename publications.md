@@ -5,8 +5,8 @@ title: Publications
 
 ## Journal articles
  
-1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, \underline{Xiaofeng Guo}, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
-2. Jiahao Lin, Lisheng Deng, Jun Li, Rongjun Wu, Yugo Osaka, \underline{Xiaofeng Guo}, Hongyu Huang, Dimensionless principle of closed thermochemical energy storage reactor: Heat–mass–reaction coupling and coordination, **Energy Conversion and Management**, 349, 2026, 120767, [doi](https://doi.org/10.1016/j.enconman.2025.120767).
+1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
+2. Jiahao Lin, Lisheng Deng, Jun Li, Rongjun Wu, Yugo Osaka, Xiaofeng Guo, Hongyu Huang, Dimensionless principle of closed thermochemical energy storage reactor: Heat–mass–reaction coupling and coordination, **Energy Conversion and Management**, 349, 2026, 120767, [doi](https://doi.org/10.1016/j.enconman.2025.120767).
 3. Zhenlong Fang, Jialin Yang, Zitao Ji, Wenjiang Hou, Yan Chen, Xiaofeng Guo, Deng Li, Experimental study on concrete fragmentation by self-excited oscillating cavitation water jets under seawater environment, **Construction and Building Materials**, 502, 144445, 2025
 4. Qinghua Qi, Xiaowei Xu, Mingxing Deng, Xiaofeng Guo, Jilin Ma, A vision-based object detection approach for tugboat escort and its application in a camera pan-tilt control system, **Ocean Engineering** 334, 121540, 2025
 5. Xuan Chen, Xianglian Liu, Chuanyu Zhang, He Xia, Xianming Qin, Yuanbiao Guo, Chia-Hung Chen, Fei Hu, Xiaofeng Guo, Dawei Zhang, Xueyong Wei, Isolation and Detection of Exosomes on Microfluidic Chips, **Biomedical Instrumentation**, 100007, 2025
