@@ -183,13 +183,15 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 ## Visiting professors 
 - Gustav Graeber, Humboldt-Universität zu Berlin, Germany (2026)
 - Aloys Osano, Maasai Mara University, Kenya (2026)
-- Feng Qian, Wuhan University of Sciences and Technology, China (2025)
-- Xueyong WEI, Xi'an Jiaotong University (2025)
 - Paulo DE SOUSA FILHO, University of Campinas (UNICAMP)
 - Zhenlong FANG, Wuhan University of Technology, China (2022/23)
 - Hatef MADANI, KTH Royal Institute of Technology, Sweden (2018)
 - Cheng WANG, Changzhou University, China (2019)
 
+<!--- This is an HTML comment in Markdown 
+- Feng Qian, Wuhan University of Sciences and Technology, China (2025)
+- Xueyong WEI, Xi'an Jiaotong University (2025)
+-->
 
 
 ## Former students
