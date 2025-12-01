@@ -3,24 +3,18 @@ layout: page
 title: Publications
 ---
 
-**Metrics: 
-57 journal articles, 
-Google Scholar Citations 2200, index h=17.** 
+**Metrics: 57 journal articles, Google Scholar Citations 2200, index h=17.** 
 
 ## Selected Journal Articles 
 1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
-2. Jiahao Lin, Lisheng Deng, Jun Li, Rongjun Wu, Yugo Osaka, Xiaofeng Guo, Hongyu Huang, Dimensionless principle of closed thermochemical energy storage reactor: Heat–mass–reaction coupling and coordination, **Energy Conversion and Management**, 349, 2026, 120767, [doi](https://doi.org/10.1016/j.enconman.2025.120767).
 5. Xuan Chen, Xianglian Liu, Chuanyu Zhang, He Xia, Xianming Qin, Yuanbiao Guo, Chia-Hung Chen, Fei Hu, Xiaofeng Guo, Dawei Zhang, Xueyong Wei, Isolation and Detection of Exosomes on Microfluidic Chips, **Biomedical Instrumentation**, 100007, 2025
 6. Zhenlong Fang, Houwen Yu, Bowen Hou, Shidong Fan, Xiangshu Lei, Xiaofeng Guo, Wenjiang Hou, Evolution of vortex-cavitation coherent structures in self-excited cavitation waterjets under sound waves excitation, **Ultrasonics Sonochemistry**, 107634, 2025
-7. Xiuneng Li, Xide Cheng, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Xiangshu Lei, Zhenlong Fang, Yan Chen, Study on the coupling mechanism of nozzle structure-cavitation impact under submerged environment, **Ultrasonics Sonochemistry**, 107632, 2025
 8. Xiangshu Lei, Qi Lu, Yingwen Liu, Xiaofeng Guo, Le Xu, Junrui Liu, Ruini Zhang, Zhifeng Zheng, Numerical analysis of condensation characteristics in a teardrop-dimpled tube for moist air flow, **International Journal of Thermal Sciences** 219, 110211, 2026
 10. Xiaoxia Zhang, Zihao Kang, Nejib Khalfaoui, Xiaofeng Guo, Xusheng Hu, Transient thermal behavior of various PCM-based heat sinks subjected to pulsed heat flux, **Case Studies in Thermal Engineering**, 106511, 2025
 11. Yaofeng Zhang, Lin Liu, Peng Liu, Lisheng Deng, Jun Li, Xiaofeng Guo, Yugo Osaka, Hongyu Huang, Study on the moisture adsorption characteristics of AlPO4-LTA and its dehumidification performance in desiccant coated dehumidifier, **International Journal of Refrigeration**, 172, pp 158-169, 2025
-12. Lin Liu, Lisheng Deng, Jun Li, Yu Bai, Zhaohong He, Xiaofeng Guo, Yugo Osaka, Mitsuhiro Kubota, Hongyu Huang, Research on enhancing deep dehumidification by constructing a double-effect synergistic process in a natural air internally-cooled dehumidifier, **Renewable Energy**, 2025, 123416, [doi](https://doi.org/10.1016/j.renene.2025.123416)
 14. Zhuo Ma, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Streaming induced by periodic forcing around wedges: A quantitative study of the different flow regimes, **Physical Review Fluids** 10, 034102, 2025,
 [doi](https://doi.org/10.1103/PhysRevFluids.10.034102)
 19. Xusheng Hu, Pengyun Chen, Xiaofeng Guo, Xiaoxia Zhang, Comparative studies on the thermal performance of novel PCM-based heat sinks using 3D-printed thermal conductivity enhancers, **International Communications in Heat and Mass Transfer** 162, 108613, 2025, [doi](https://doi.org/10.1016/j.icheatmasstransfer.2025.108613)
-26. Xiuneng Li, Xide Cheng, Wenjiang Hou, Shidong Fan, Xiaofeng Guo, Chao Ma, Zhenlong Fang, A comparison of Helmholtz oscillators with differently shaped petal nozzles, **Physics of Fluids** 36 (8), 085159, 2024,  [doi](https://doi.org/10.1063/5.0222498)
 27. Cheng Wang, Yue Yu, Junnan Yang, Shixuan Xu, Ye Zhu, Qi Song, Xiaofeng Guo, Effects of Thermo-Chromic materials (TCMs) on the performance of asphalt pavement with phase change materials (PCMs), **Thermal Science and Engineering Progress**, 102715 (2024),  [doi](https://doi.org/10.1016/j.tsep.2024.102715)   &nbsp; &nbsp; [*PDF*](./publi/WangC2024TSEP.pdf) 
 28. Chuanyu Zhang, Philippe Brunet, Shuo Liu, Xiaofeng Guo, Laurent Royon, Xianming Qin and Xueyong Wei, Acoustofluidics at audible frequencies - A review, **Engineering**, [doi](https://doi.org/10.1016/j.eng.2024.03.020) 
 1. Xiangshu Lei, Yingwen Liu, Peng Yang, Laurent Royon, and Xiaofeng Guo, Dynamics of droplet coalescence on a vibrating vertical surface, **Physics of Fluids**, 2023,  [doi](https://doi.org/10.1063/5.0157591)  &nbsp; &nbsp; [*PDF*](./publi/Lei2023POF.pdf)
@@ -28,33 +22,21 @@ Google Scholar Citations 2200, index h=17.**
 
 1. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon and Patrice Chatellier, Heat transfer analysis of sewer system and its potential role in thermal energy storage, **Journal of Energy Storage** 61, 2023, 106799.  [doi](https://doi.org/10.1016/j.est.2023.106799) &nbsp; &nbsp; [*PDF*](./publi/Zhang2023JESsewer.pdf)
 
-1. Geyu Zhong, Chuanyu Zhang, Xiaofeng Guo, Peng Yang and Yingwen Liu, Traveling of oscillating vortices and its thermal effects in a bending channel, **ASME Journal of Heat and Mass Transfer**, 2023, 145(2): 021801,  [doi](https://doi.org/10.1115/1.4056298) 
-
 1. Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, **Chemical Engineering Journal** 410, 2021, 128252.  [doi](https://doi.org/10.1016/j.cej.2020.128252)  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
 
 2. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Unveiling of the mechanisms of acoustic streaming induced by sharp edges, **Physical Review E** 102, 2020, 043110.  [doi](https://doi.org/10.1103/PhysRevE.102.043110)     &nbsp; &nbsp; [*PDF*](./publi/Zhang2020PRE.pdf)
 
 3. Sixiang Lyu, Cheng Wang, Chuanyu Zhang, Laurent Royon, Xiaofeng Guo, Experimental characterization of a novel soft polymer heat exchanger for wastewater heat recovery, **International Journal of Heat and Mass Transfer**, 2020, 161, 120256.  [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2020.120256)   &nbsp; &nbsp; [*PDF*](./publi/LyuHMT2020.pdf)
 
-4. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, Philippe Brunet, Acoustic Streaming Generated by Sharp Edges: The Coupled Influences of Liquid Viscosity and Acoustic Frequency, **Micromachines** 2020, 11, 607.  [doi](https://doi.org/10.3390/mi11060607)    &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
-
-5. Chuanyu Zhang, Xiaofeng Guo, Philippe Brunet, Maxime Costalonga, Laurent Royon, Acoustic streaming near a sharp structure and its mixing performance characterization, **Microfluidics and Nanofluidics** (2019) 23: 104.  [doi](https://doi.org/10.1007/s10404-019-2271-5)   &nbsp; &nbsp; [*PDF*](./publi/zhang mano 2019 streaming_sharp_edges.pdf)
-
-6. Ye Zhu, Cheng Wang, Xiaofeng Guo, Smart utilization of solar energy with Optic-Variable Wall (OVW) for thermal comfort, **Energy and Buildings**, 202 (2019), 109376,  [doi](https://doi.org/10.1016/j.enbuild.2019.109376)  &nbsp; &nbsp; [*PDF*](./publi/zhuEnB2019.pdf)
-
 7. Cheng Wang, Ye Zhu, Xiaofeng Guo, Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement, **Applied Energy**, 253 (2019), 113506,  [doi](https://doi.org/10.1016/j.apenergy.2019.113506)  &nbsp; &nbsp; [*PDF*](./publi/wang2019apen.pdf)
-
-8. Xiaofeng Guo, Alain Pascal Goumba, Cheng Wang, Comparison of Direct and Indirect Active Thermal Energy Storage Strategies for Large-Scale Solar Heating Systems, **Energies** 2019, 12(10), 1948,  [doi](https://doi.org/10.3390/en12101948). &nbsp; &nbsp; [*PDF*](./publi/guo2019energies-12-01948.pdf)
 
 9. Mathieu Bourdeau, Xiao-Qiang Zhai, Elyes Nefzaoui, Xiaofeng Guo, Patrice Chatellier, Modelling and forecasting building energy consumption: a review of data-driven techniques, **Sustainable Cities and Society**, 48 (2019), (**Highly Cited Paper**)  [doi](https://doi.org/10.1016/j.scs.2019.101533).  &nbsp; &nbsp; [*PDF*](./publi/BourdeauSCS2019.pdf)
 
-10. Cheng Wang, Xiaofeng Guo, Ye Zhu, Energy saving with Optic-Variable Wall for stable air temperature control, **Energy**, 173 (2019), 38-47,  [doi](https://doi.org/10.1016/j.energy.2019.02.051).   &nbsp; &nbsp; [*PDF*](./publi/WangcEGY2019.pdf)
 
 11. Xiaofeng Guo, Alain Pascal Goumba, Air source heat pump for domestic hot water supply: performance comparison between individual and building scale installations, **Energy**, 164 (2018), 794-802,  [doi](https://doi.org/10.1016/j.energy.2018.09.065).     &nbsp; &nbsp; [*PDF*](./publi/guoegy2018iccrsi.pdf)
 
 12. Xiaofeng Guo, Yilin Fan, Lingai Luo, Residence time distribution on flow characterisation of multichannel systems: Modelling and experimentation, **Experimental Thermal and Fluid Science**, 99 (2018) 407–419.  [doi](https://doi.org/10.1016/j.expthermflusci.2018.08.016).     &nbsp; &nbsp; [*PDF*](./publi/guo2018ETFS.pdf)
 
-13. Xiaofeng Guo, Alain Pascal Goumba, Process Intensification principles applied to Thermal Energy Storage systems - a brief review, **Frontiers in Energy Research**, 20 March 2018,  [doi](https://doi.org/10.3389/fenrg.2018.00017)     &nbsp; &nbsp; [*PDF*](./publi/guo2018fenrg-06-00017.pdf)
 
 14. Xiaofeng Guo, Martin Hendel, Urban water networks as an alternative source for district heating and emergency heat-wave cooling, **Energy**, Volume 145, 15 February 2018, Pages 79-87,  [doi](https://doi.org/10.1016/j.energy.2017.12.108).      &nbsp; &nbsp; [*PDF*](./publi/guo2018egy.pdf)
 
@@ -62,8 +44,6 @@ Google Scholar Citations 2200, index h=17.**
 
 16. Yacine Allab, Margot Pellegrino, Xiaofeng Guo, Elyes Nefzaoui, Andrea Kindinis, Energy and comfort assessment in educational building: case study in a French university campus, **Energy and Buildings**, Volume 143, 15 May 2017, Pages 202-219,  [doi](https://doi.org/10.1016/j.enbuild.2016.11.028).  &nbsp; &nbsp; [*PDF*](./publi/Allab2017.pdf)
 
-
-18. Xiaofeng Guo, Yilin Fan, Lingai Luo, Multi-channel heat exchanger-reactor using arborescent distributors: A characterization study of fluid distribution, heat exchange performance and exothermic reaction, **Energy**, Volume 69, 1 May 2014, Pages 728-741,  [doi](http://doi.org/10.1016/j.energy.2014.03.069). &nbsp; &nbsp; [*PDF*](./publi/guo2014egy.pdf)
 
 19. Xiaofeng Guo, Yilin Fan, Lingai Luo, Mixing performance assessment of a multi-channel mini heat exchanger reactor with arborescent distributor and collector, **Chemical Engineering Journal**, Volume 227, 1 July 2013, Pages 116-127,  [doi](http://doi.org/10.1016/j.cej.2012.08.068). &nbsp; &nbsp; [*PDF*](./publi/guo2013cej.pdf)
 
@@ -148,23 +128,14 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 1. Sustainable buildings & districts: a glance at the French RE2020 regulation, CA23157 Workshop on LCSA Knowledge Exchange between Industry and Academia, EU COST Action, Paris, 05/09/2025
 2. Heat and Mass Transfer Enhancement by Acoustic Streaming, Technical Institute of Physics and Chemistry CAS, Beijing, 22/08/2025
 3. Climate Change Impacts: Urban Heat Islands, Empowering Climate Action - Policy, Communication and Agency: Islands on the Frontline, SUMMER SCHOOL FOR BACHELOR STUDENTS, 21 - 25 July 2025, Humboldt-Universität zu Berlin (**invited lecture**)
-4. Suivi et analyse de la qualité de l'air intérieur dans le bâtiment Pajol, Colloque Atterrir, Buffon, 04.2025
 5. Heat and mass transfer enhancement by harvesting vibration/acoustic energy, ICENSS2024, Tsingtao, 2024.8.30-9.1 (**plenary**)
 6. Thermal management of road deicing using an electric resistance coating, 2nd Intl Conference on Energy Storage and Saving, Xi'an, 2023.11.25-27  (**keynote**)
 7. Coating materials with electrical or optical functionalities and their applications in urban context, 2023 Int Conference on Advanced Materials and New Green Manufacturing Technologies, Wuhan University of Science and Technology, 2023.11 (**invited**)
 8. District building energy saving - opportunities from new materials/processes, Guangzhou Institute of Energy Conversion, CAS, 2023.08
-9. Acoustic streaming at low frequencies and its application on fluid manipulation, Wuhan University of Technology, 2023.08.15
-10. Research thematics at LIED and recent topics on process intensification, Xi'an Jiaotong University, 2023.08
-
 1. Energy efficiency in buildings: physical rules and behavioural impacts, Annual seminar LIEPP, Sciences Po Paris, 2023.05 (**invited**)
-
 2. Echangeur FLEXER & Récupération d’énergie : Caractérisation d’un nouvel échangeur polymère, Les Journées Techniques du GRETh, Aix les Bains, 16-17 novembre 2022  (**invité**)
 3. Transfer enhancement by low-frequency acoustic streaming, School of Mechanical Engineering, Xi'an Jiao Tong University, 28 Oct 2022  (**invited**)
 4. Efficient energy management from building to district: opportunities from new materials, ICENSS - 1st International Conference on Energy Storage and Saving, Xi'an, China, 20-23 Oct 2022 (**keynote**)
-
-1. Interdisciplinary energy research for a low-carbon future: interactions with material, big-data and biomimetic approaches, International Symposium on Green Ship Design and New Energy Technology, Wuhan University of Technology, 10th April 2021 (**keynote**)
-
-
 
 
 
