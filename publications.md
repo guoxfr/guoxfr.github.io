@@ -6,14 +6,14 @@ title: Publications
 **Metrics: 57 journal articles, Google Scholar Citations 2200, index h=17.** 
 
 ## Selected Journal Articles 
-# Building/Infrastructure & Energy
+### Building/Infrastructure & Energy
 1. Mathieu Bourdeau, Xiaofeng Guo, Elyes Nefzaoui, Buildings energy consumption generation gap: A post-occupancy assessment in a case study of three higher education buildings, **Energy and Buildings**, Volume 159, 15 January 2018, Pages 600-611,  [doi](https://doi.org/10.1016/j.enbuild.2017.11.062).  &nbsp; &nbsp; [*PDF*](./publi/bourdeau2018.pdf)
 16. Yacine Allab, Margot Pellegrino, Xiaofeng Guo, Elyes Nefzaoui, Andrea Kindinis, Energy and comfort assessment in educational building: case study in a French university campus, **Energy and Buildings**, Volume 143, 15 May 2017, Pages 202-219,  [doi](https://doi.org/10.1016/j.enbuild.2016.11.028).  &nbsp; &nbsp; [*PDF*](./publi/Allab2017.pdf)
 7. Cheng Wang, Ye Zhu, Xiaofeng Guo, Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement, **Applied Energy**, 253 (2019), 113506,  [doi](https://doi.org/10.1016/j.apenergy.2019.113506)  &nbsp; &nbsp; [*PDF*](./publi/wang2019apen.pdf)
 9. Mathieu Bourdeau, Xiao-Qiang Zhai, Elyes Nefzaoui, Xiaofeng Guo, Patrice Chatellier, Modelling and forecasting building energy consumption: a review of data-driven techniques, **Sustainable Cities and Society**, 48 (2019), (**Highly Cited Paper**)  [doi](https://doi.org/10.1016/j.scs.2019.101533).  &nbsp; &nbsp; [*PDF*](./publi/BourdeauSCS2019.pdf)
 
 
-# Process intensification - acoustofluidics
+### Process intensification - acoustofluidics
 1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Streaming induced by periodic forcing around wedges: A quantitative study of the different flow regimes, **Physical Review Fluids** 10, 034102, 2025,
 [doi](https://doi.org/10.1103/PhysRevFluids.10.034102)
 1. Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, **Chemical Engineering Journal** 410, 2021, 128252.  [doi](https://doi.org/10.1016/j.cej.2020.128252)  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
@@ -28,7 +28,7 @@ title: Publications
 
 
 
-# Low-carbon Energy Systems
+### Low-carbon Energy Systems
 1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
 5. Xuan Chen, Xianglian Liu, Chuanyu Zhang, He Xia, Xianming Qin, Yuanbiao Guo, Chia-Hung Chen, Fei Hu, Xiaofeng Guo, Dawei Zhang, Xueyong Wei, Isolation and Detection of Exosomes on Microfluidic Chips, **Biomedical Instrumentation**, 100007, 2025
 10. Xiaoxia Zhang, Zihao Kang, Nejib Khalfaoui, Xiaofeng Guo, Xusheng Hu, Transient thermal behavior of various PCM-based heat sinks subjected to pulsed heat flux, **Case Studies in Thermal Engineering**, 106511, 2025
