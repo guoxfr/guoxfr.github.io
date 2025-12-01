@@ -11,6 +11,7 @@ title: Publications
 16. Yacine Allab, Margot Pellegrino, Xiaofeng Guo, Elyes Nefzaoui, Andrea Kindinis, Energy and comfort assessment in educational building: case study in a French university campus, **Energy and Buildings**, Volume 143, 15 May 2017, Pages 202-219,  [doi](https://doi.org/10.1016/j.enbuild.2016.11.028).  &nbsp; &nbsp; [*PDF*](./publi/Allab2017.pdf)
 7. Cheng Wang, Ye Zhu, Xiaofeng Guo, Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement, **Applied Energy**, 253 (2019), 113506,  [doi](https://doi.org/10.1016/j.apenergy.2019.113506)  &nbsp; &nbsp; [*PDF*](./publi/wang2019apen.pdf)
 9. Mathieu Bourdeau, Xiao-Qiang Zhai, Elyes Nefzaoui, Xiaofeng Guo, Patrice Chatellier, Modelling and forecasting building energy consumption: a review of data-driven techniques, **Sustainable Cities and Society**, 48 (2019), (**Highly Cited Paper**)  [doi](https://doi.org/10.1016/j.scs.2019.101533).  &nbsp; &nbsp; [*PDF*](./publi/BourdeauSCS2019.pdf)
+5. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
 
 
 ### Process intensification - acoustofluidics
