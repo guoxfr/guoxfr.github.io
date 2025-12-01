@@ -3,7 +3,9 @@ layout: page
 title: Publications
 ---
 
-## Journal articles
+**Metrics: 57 journal articles, Google Scholar Citations 2200, index h=17.** 
+
+## Selected Journal Articles 
  
 1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
 2. Jiahao Lin, Lisheng Deng, Jun Li, Rongjun Wu, Yugo Osaka, Xiaofeng Guo, Hongyu Huang, Dimensionless principle of closed thermochemical energy storage reactor: Heat–mass–reaction coupling and coordination, **Energy Conversion and Management**, 349, 2026, 120767, [doi](https://doi.org/10.1016/j.enconman.2025.120767).
