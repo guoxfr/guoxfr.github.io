@@ -182,6 +182,7 @@ ADEME en partenariat avec Eiffage et Rescoll, 2022-2025
 
 ## Visiting professors 
 - Gustav Graeber, Humboldt-Universität zu Berlin, Germany (2026)
+- Giulia Lamberti, University of Pisa, Italy (2025)
 - Aloys Osano, Maasai Mara University, Kenya (2026)
 - Paulo DE SOUSA FILHO, University of Campinas (UNICAMP)
 - Zhenlong FANG, Wuhan University of Technology, China (2022/23)
