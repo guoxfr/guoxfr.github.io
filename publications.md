@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Metrics: 57 journal articles, Google Scholar Citations 2200, index h=17.** 
+**Metrics: 60 journal articles, Google Scholar Citations 2200, index h=17.** 
 
 ## Selected Journal Articles 
 
