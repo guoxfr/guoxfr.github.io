@@ -6,16 +6,10 @@ title: Publications
 **Metrics: 57 journal articles, Google Scholar Citations 2200, index h=17.** 
 
 ## Selected Journal Articles 
-### Building/Infrastructure & Energy
-1. Mathieu Bourdeau, Xiaofeng Guo, Elyes Nefzaoui, Buildings energy consumption generation gap: A post-occupancy assessment in a case study of three higher education buildings, **Energy and Buildings**, Volume 159, 15 January 2018, Pages 600-611,  [doi](https://doi.org/10.1016/j.enbuild.2017.11.062).  &nbsp; &nbsp; [*PDF*](./publi/bourdeau2018.pdf)
-16. Yacine Allab, Margot Pellegrino, Xiaofeng Guo, Elyes Nefzaoui, Andrea Kindinis, Energy and comfort assessment in educational building: case study in a French university campus, **Energy and Buildings**, Volume 143, 15 May 2017, Pages 202-219,  [doi](https://doi.org/10.1016/j.enbuild.2016.11.028).  &nbsp; &nbsp; [*PDF*](./publi/Allab2017.pdf)
-7. Cheng Wang, Ye Zhu, Xiaofeng Guo, Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement, **Applied Energy**, 253 (2019), 113506,  [doi](https://doi.org/10.1016/j.apenergy.2019.113506)  &nbsp; &nbsp; [*PDF*](./publi/wang2019apen.pdf)
-9. Mathieu Bourdeau, Xiao-Qiang Zhai, Elyes Nefzaoui, Xiaofeng Guo, Patrice Chatellier, Modelling and forecasting building energy consumption: a review of data-driven techniques, **Sustainable Cities and Society**, 48 (2019), (**Highly Cited Paper**)  [doi](https://doi.org/10.1016/j.scs.2019.101533).  &nbsp; &nbsp; [*PDF*](./publi/BourdeauSCS2019.pdf)
-5. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
-
 
 ### Process intensification - acoustofluidics
-1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Streaming induced by periodic forcing around wedges: A quantitative study of the different flow regimes, **Physical Review Fluids** 10, 034102, 2025,
+1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 129318, 2025 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
+2. Zhuo Ma, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Streaming induced by periodic forcing around wedges: A quantitative study of the different flow regimes, **Physical Review Fluids** 10, 034102, 2025,
 [doi](https://doi.org/10.1103/PhysRevFluids.10.034102)
 1. Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, **Chemical Engineering Journal** 410, 2021, 128252.  [doi](https://doi.org/10.1016/j.cej.2020.128252)  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
 2. Chuanyu Zhang, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Unveiling of the mechanisms of acoustic streaming induced by sharp edges, **Physical Review E** 102, 2020, 043110.  [doi](https://doi.org/10.1103/PhysRevE.102.043110)     &nbsp; &nbsp; [*PDF*](./publi/Zhang2020PRE.pdf)
@@ -26,6 +20,17 @@ title: Publications
 8. Xiangshu Lei, Qi Lu, Yingwen Liu, Xiaofeng Guo, Le Xu, Junrui Liu, Ruini Zhang, Zhifeng Zheng, Numerical analysis of condensation characteristics in a teardrop-dimpled tube for moist air flow, **International Journal of Thermal Sciences** 219, 110211, 2026
 9. Xiaofeng Guo, Yilin Fan, Lingai Luo, Residence time distribution on flow characterisation of multichannel systems: Modelling and experimentation, **Experimental Thermal and Fluid Science**, 99 (2018) 407–419.  [doi](https://doi.org/10.1016/j.expthermflusci.2018.08.016).     &nbsp; &nbsp; [*PDF*](./publi/guo2018ETFS.pdf)
 10. Xiaofeng Guo, Yilin Fan, Lingai Luo, Mixing performance assessment of a multi-channel mini heat exchanger reactor with arborescent distributor and collector, **Chemical Engineering Journal**, Volume 227, 1 July 2013, Pages 116-127,  [doi](http://doi.org/10.1016/j.cej.2012.08.068). &nbsp; &nbsp; [*PDF*](./publi/guo2013cej.pdf)
+
+
+
+### Building/Infrastructure & Energy
+1. Mathieu Bourdeau, Xiaofeng Guo, Elyes Nefzaoui, Buildings energy consumption generation gap: A post-occupancy assessment in a case study of three higher education buildings, **Energy and Buildings**, Volume 159, 15 January 2018, Pages 600-611,  [doi](https://doi.org/10.1016/j.enbuild.2017.11.062).  &nbsp; &nbsp; [*PDF*](./publi/bourdeau2018.pdf)
+16. Yacine Allab, Margot Pellegrino, Xiaofeng Guo, Elyes Nefzaoui, Andrea Kindinis, Energy and comfort assessment in educational building: case study in a French university campus, **Energy and Buildings**, Volume 143, 15 May 2017, Pages 202-219,  [doi](https://doi.org/10.1016/j.enbuild.2016.11.028).  &nbsp; &nbsp; [*PDF*](./publi/Allab2017.pdf)
+7. Cheng Wang, Ye Zhu, Xiaofeng Guo, Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement, **Applied Energy**, 253 (2019), 113506,  [doi](https://doi.org/10.1016/j.apenergy.2019.113506)  &nbsp; &nbsp; [*PDF*](./publi/wang2019apen.pdf)
+9. Mathieu Bourdeau, Xiao-Qiang Zhai, Elyes Nefzaoui, Xiaofeng Guo, Patrice Chatellier, Modelling and forecasting building energy consumption: a review of data-driven techniques, **Sustainable Cities and Society**, 48 (2019), (**Highly Cited Paper**)  [doi](https://doi.org/10.1016/j.scs.2019.101533).  &nbsp; &nbsp; [*PDF*](./publi/BourdeauSCS2019.pdf)
+5. Pengfei Cao, Thomas Attia, Simon Pouget, Laurent Royon and Xiaofeng Guo, Thermal characterization of an electroconductive paint for road deicing, In: Carter, A., Vasconcelos, K., Dave, E. (eds) 14th International Conference on Asphalt Pavements ISAP2024 Montreal. ISAP APE 2024. Springer, Cham. https://doi.org/10.1007/978-3-031-67252-1_33
+
+
 
 
 
@@ -136,6 +141,7 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 <!--- This is an HTML comment in Markdown 
 
 ## Publication list  
+1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 129318, 2025 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
 1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
 2. Jiahao Lin, Lisheng Deng, Jun Li, Rongjun Wu, Yugo Osaka, Xiaofeng Guo, Hongyu Huang, Dimensionless principle of closed thermochemical energy storage reactor: Heat–mass–reaction coupling and coordination, **Energy Conversion and Management**, 349, 2026, 120767, [doi](https://doi.org/10.1016/j.enconman.2025.120767).
 3. Zhenlong Fang, Jialin Yang, Zitao Ji, Wenjiang Hou, Yan Chen, Xiaofeng Guo, Deng Li, Experimental study on concrete fragmentation by self-excited oscillating cavitation water jets under seawater environment, **Construction and Building Materials**, 502, 144445, 2025
