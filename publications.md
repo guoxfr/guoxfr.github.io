@@ -141,7 +141,8 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 <!--- This is an HTML comment in Markdown 
 
 ## Publication list  
-1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 129318, 2025 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
+1. Xiaowei Xu, Yijun Hong, Chen Zeng, Xiaofeng Guo, Mingxing Deng, A 3-D Object Detection for Irregular Targets in Unstructured Environments, IEEE Sensors, 2025, 10.1109/JSEN.2025.XXXXX (TO APPEAR)
+2. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 129318, 2025 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
 1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
 2. Jiahao Lin, Lisheng Deng, Jun Li, Rongjun Wu, Yugo Osaka, Xiaofeng Guo, Hongyu Huang, Dimensionless principle of closed thermochemical energy storage reactor: Heat–mass–reaction coupling and coordination, **Energy Conversion and Management**, 349, 2026, 120767, [doi](https://doi.org/10.1016/j.enconman.2025.120767).
 3. Zhenlong Fang, Jialin Yang, Zitao Ji, Wenjiang Hou, Yan Chen, Xiaofeng Guo, Deng Li, Experimental study on concrete fragmentation by self-excited oscillating cavitation water jets under seawater environment, **Construction and Building Materials**, 502, 144445, 2025
