@@ -141,6 +141,7 @@ CNRIUT 2025 Bayonne-Pays Basque, 2025
 <!--- This is an HTML comment in Markdown 
 
 ## Publication list  
+1. XXXXXX, Advances in Enhancing the Sensitivity of TDLAS for Water Vapor Concentration Detection - A review,  **Infrared Physics & Technology** XXX, XXXXXX, 2025,  [doi]()
 1. Xiaowei Xu, Yijun Hong, Chen Zeng, Xiaofeng Guo, Mingxing Deng, A 3-D Object Detection for Irregular Targets in Unstructured Environments, IEEE Sensors, 2025, 10.1109/JSEN.2025.XXXXX (TO APPEAR)
 2. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 129318, 2025 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
 1. Shusen Lin, Lisheng Deng, Hailong Zheng, Jun Li, Xiaofeng Guo, Rongjun Wu, Na Gao, Fei Duan, Hongyu Huang, Thermochemical energy storage on hydrophilically treated activated carbon trisodium phosphate, **Applied Thermal Engineering**, 2025, 129253, [doi](https://doi.org/10.1016/j.applthermaleng.2025.129253).
