@@ -8,7 +8,7 @@ title: Publications
 ## Selected Journal Articles 
 
 ### Process intensification - acoustofluidics
-1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 129318, 2025 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
+1. Zhuo Ma, Xiaofeng Guo, Laurent Royon, Philippe Brunet and Chuanyu Zhang, A study on heat convection enhancement induced by sharp edge acoustic streaming vortices, **Applied Thermal Engineering**, 287, 129318, 2026 [doi](https://doi.org/10.1016/j.applthermaleng.2025.129318)
 2. Zhuo Ma, Xiaofeng Guo, Laurent Royon, and Philippe Brunet, Streaming induced by periodic forcing around wedges: A quantitative study of the different flow regimes, **Physical Review Fluids** 10, 034102, 2025,
 [doi](https://doi.org/10.1103/PhysRevFluids.10.034102)
 1. Chuanyu Zhang, Philippe Brunet, Laurent Royon and Xiaofeng Guo, Mixing intensification using sound-driven micromixer with sharp edges, **Chemical Engineering Journal** 410, 2021, 128252.  [doi](https://doi.org/10.1016/j.cej.2020.128252)  &nbsp; &nbsp; [*PDF*](./publi/Zhang2021CEJmixing.pdf)
